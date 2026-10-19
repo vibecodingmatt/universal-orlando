@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"dreamworks-play","kind":"zone","file":"dreamworks-play-collision.bvhz","encoding":"gzip","bytes":13170,"decodedBytes":31456,"bounds":{"min":[204.75,-0.49,-123.88],"max":[329.88,10.27,-33.64]},"triangles":1284,"vertices":820}]}

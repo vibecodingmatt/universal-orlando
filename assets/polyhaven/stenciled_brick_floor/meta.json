@@ -1,0 +1,20 @@
+{
+  "id": "stenciled_brick_floor",
+  "name": "Stenciled Brick Floor",
+  "authors": [
+    "Amal Kumar"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/stenciled_brick_floor",
+  "type": "texture",
+  "res": "1k",
+  "main": "stenciled_brick_floor.glb",
+  "use": "stamped red brick-pattern streets (library `brick-pavers`)",
+  "dimensions_mm": [
+    1919.9998378753662,
+    1919.9998378753662
+  ],
+  "bytes": 2416720,
+  "lo": "stenciled_brick_floor-lo.glb",
+  "loBytes": 166468
+}

@@ -1,0 +1,20 @@
+{
+  "id": "white_stucco",
+  "name": "White Stucco",
+  "authors": [
+    "Amal Kumar"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/white_stucco",
+  "type": "texture",
+  "res": "1k",
+  "main": "white_stucco.glb",
+  "use": "sand-finish stucco walls (library `stucco-sand`)",
+  "dimensions_mm": [
+    1998.0629682540894,
+    1998.0640411376953
+  ],
+  "bytes": 2169612,
+  "lo": "white_stucco-lo.glb",
+  "loBytes": 131336
+}

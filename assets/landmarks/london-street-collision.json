@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"london-street-landmarks","kind":"zone","file":"london-street-collision.bvhz","encoding":"gzip","bytes":552,"decodedBytes":800,"bounds":{"min":[-20.97,-0.02,-182.72],"max":[15.22,3.2,-160.23]},"triangles":24,"vertices":16}]}

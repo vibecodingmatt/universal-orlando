@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"nyc-stage-deck","kind":"zone","file":"nyc-fillers-collision.bvhz","encoding":"gzip","bytes":364,"decodedBytes":488,"bounds":{"min":[21.7,0.58,271],"max":[36.97,2.08,277.88]},"triangles":12,"vertices":8}]}

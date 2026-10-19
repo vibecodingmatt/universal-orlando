@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zombie (Rigged & Animated)
+* source:	https://sketchfab.com/3d-models/zombie-rigged-animated-131688807ad444609ed9b2ed572dc4aa
+* author:	Aiden Studios (https://sketchfab.com/aidenstudios)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zombie (Rigged & Animated)" (https://sketchfab.com/3d-models/zombie-rigged-animated-131688807ad444609ed9b2ed572dc4aa) by Aiden Studios (https://sketchfab.com/aidenstudios) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

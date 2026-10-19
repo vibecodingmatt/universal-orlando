@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"dreamworks-sign-planter","kind":"zone","file":"dreamworks-sign-collision.bvhz","encoding":"gzip","bytes":1036,"decodedBytes":1848,"bounds":{"min":[204.31,-0.42,-26.29],"max":[211.69,4.3,-21.71]},"triangles":76,"vertices":40}]}

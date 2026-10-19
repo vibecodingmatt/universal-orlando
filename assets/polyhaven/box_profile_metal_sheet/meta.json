@@ -1,0 +1,20 @@
+{
+  "id": "box_profile_metal_sheet",
+  "name": "Box Profile Metal Sheet",
+  "authors": [
+    "Amal Kumar"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/box_profile_metal_sheet",
+  "type": "texture",
+  "res": "1k",
+  "main": "box_profile_metal_sheet.glb",
+  "use": "metal siding (library `metal-siding`)",
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "bytes": 2202968,
+  "lo": "box_profile_metal_sheet-lo.glb",
+  "loBytes": 129160
+}

@@ -1,0 +1,20 @@
+{
+  "id": "green_metal_rust",
+  "name": "Green Metal Rust",
+  "authors": [
+    "Rob Tuytel"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/green_metal_rust",
+  "type": "texture",
+  "res": "1k",
+  "main": "green_metal_rust.glb",
+  "use": "painted metal: fences, frames, fire escapes (library `paint-metal`)",
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "bytes": 1796240,
+  "lo": "green_metal_rust-lo.glb",
+  "loBytes": 143172
+}

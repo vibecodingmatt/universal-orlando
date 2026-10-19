@@ -1,0 +1,17 @@
+{
+  "id": "kloofendal_43d_clear_puresky",
+  "name": "Kloofendal 43d Clear (Pure Sky)",
+  "authors": [
+    "Greg Zaal"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/kloofendal_43d_clear_puresky",
+  "type": "hdri",
+  "res": "4k",
+  "format": "hdr",
+  "main": "kloofendal_43d_clear_puresky_4k.hdr",
+  "files": [
+    "kloofendal_43d_clear_puresky_4k.hdr"
+  ],
+  "use": "sky candidate, `?hdri=` (`src/world/sky.ts`)"
+}

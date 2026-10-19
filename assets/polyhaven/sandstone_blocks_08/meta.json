@@ -1,0 +1,20 @@
+{
+  "id": "sandstone_blocks_08",
+  "name": "Sandstone Blocks 08",
+  "authors": [
+    "Rob Tuytel"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/sandstone_blocks_08",
+  "type": "texture",
+  "res": "2k",
+  "main": "sandstone_blocks_08.glb",
+  "use": "limestone ashlar (library `limestone`)",
+  "dimensions_mm": [
+    3000,
+    3000
+  ],
+  "bytes": 7612016,
+  "lo": "sandstone_blocks_08-lo.glb",
+  "loBytes": 544816
+}

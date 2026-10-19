@@ -1,0 +1,18 @@
+{
+  "id": "sunflowers_puresky",
+  "name": "Sunflowers (Pure Sky)",
+  "authors": [
+    "Jarod Guest",
+    "Sergej Majboroda"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/sunflowers_puresky",
+  "type": "hdri",
+  "res": "4k",
+  "format": "hdr",
+  "main": "sunflowers_puresky_4k.hdr",
+  "files": [
+    "sunflowers_puresky_4k.hdr"
+  ],
+  "use": "sky candidate, `?hdri=` (`src/world/sky.ts`)"
+}

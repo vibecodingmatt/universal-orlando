@@ -1,0 +1,20 @@
+{
+  "id": "rock_tile_floor",
+  "name": "Rock Tile Floor",
+  "authors": [
+    "Charlotte Baglioni"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_tile_floor",
+  "type": "texture",
+  "res": "1k",
+  "main": "rock_tile_floor.glb",
+  "use": "Diagon Alley and Carkitt Market stamped ashlar paving (library `diagon-flags`)",
+  "dimensions_mm": [
+    1960.0000381469727,
+    1960.0000381469727
+  ],
+  "bytes": 2670204,
+  "lo": "rock_tile_floor-lo.glb",
+  "loBytes": 183568
+}
