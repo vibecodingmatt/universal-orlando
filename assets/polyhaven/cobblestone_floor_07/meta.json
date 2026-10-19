@@ -1,0 +1,20 @@
+{
+  "id": "cobblestone_floor_07",
+  "name": "Cobblestone Floor 07",
+  "authors": [
+    "Rob Tuytel"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/cobblestone_floor_07",
+  "type": "texture",
+  "res": "1k",
+  "main": "cobblestone_floor_07.glb",
+  "use": "Diagon Alley worn grey setts (library `cobbles`)",
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "bytes": 2611248,
+  "lo": "cobblestone_floor_07-lo.glb",
+  "loBytes": 192644
+}

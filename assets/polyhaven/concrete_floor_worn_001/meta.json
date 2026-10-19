@@ -1,0 +1,21 @@
+{
+  "id": "concrete_floor_worn_001",
+  "name": "Concrete Floor Worn 001",
+  "authors": [
+    "Dimitrios Savva",
+    "Rico Cilliers"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/concrete_floor_worn_001",
+  "type": "texture",
+  "res": "2k",
+  "main": "concrete_floor_worn_001.glb",
+  "use": "curbs, plain concrete (library `concrete`)",
+  "dimensions_mm": [
+    3000,
+    3000.000238418579
+  ],
+  "bytes": 9196060,
+  "lo": "concrete_floor_worn_001-lo.glb",
+  "loBytes": 622800
+}

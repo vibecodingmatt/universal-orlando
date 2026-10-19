@@ -1,0 +1,20 @@
+{
+  "id": "clay_roof_tiles_02",
+  "name": "Clay Roof Tiles 02",
+  "authors": [
+    "Amal Kumar"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/clay_roof_tiles_02",
+  "type": "texture",
+  "res": "2k",
+  "main": "clay_roof_tiles_02.glb",
+  "use": "clay barrel tile roofs (library `roof-clay`)",
+  "dimensions_mm": [
+    2500,
+    2500
+  ],
+  "bytes": 10165496,
+  "lo": "clay_roof_tiles_02-lo.glb",
+  "loBytes": 673928
+}

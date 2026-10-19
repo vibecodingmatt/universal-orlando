@@ -1,0 +1,18 @@
+{
+  "id": "qwantani_afternoon_puresky",
+  "name": "Qwantani Afternoon (Pure Sky)",
+  "authors": [
+    "Greg Zaal",
+    "Jarod Guest"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/qwantani_afternoon_puresky",
+  "type": "hdri",
+  "res": "4k",
+  "format": "hdr",
+  "main": "qwantani_afternoon_puresky_4k.hdr",
+  "files": [
+    "qwantani_afternoon_puresky_4k.hdr"
+  ],
+  "use": "sky candidate, `?hdri=` (`src/world/sky.ts`)"
+}

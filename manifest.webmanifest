@@ -1,0 +1,17 @@
+{
+  "name": "Universal Orlando 3D (fan-made)",
+  "short_name": "USF 3D",
+  "description": "Unofficial fan project: a full-size 3D Universal Studios Florida to walk and fly through in the browser.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#030912",
+  "theme_color": "#061b36",
+  "icons": [
+    { "src": "favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512" },
+    { "src": "icon-maskable-512.png", "type": "image/png", "sizes": "512x512", "purpose": "maskable" }
+  ]
+}

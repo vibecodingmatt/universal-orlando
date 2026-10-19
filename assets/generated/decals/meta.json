@@ -1,0 +1,21 @@
+{
+  "id": "decals",
+  "name": "Ground decal atlas (procedural, ours)",
+  "authors": [
+    "universal-orlando-3d (tools/geo/decals_lib.py)"
+  ],
+  "license": "ours",
+  "source": "tools/geo/decals_lib.py",
+  "type": "texture",
+  "res": "2048x1024",
+  "main": "decals.glb",
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "use": "puddles, stains and tar-sealed cracks on streets (3.1b-3)",
+  "alphaMode": "BLEND",
+  "bytes": 2316892,
+  "lo": "decals-lo.glb",
+  "loBytes": 173968
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rustig_koppie_puresky",
+  "name": "Rustig Koppie (Pure Sky)",
+  "authors": [
+    "Greg Zaal",
+    "Jarod Guest"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rustig_koppie_puresky",
+  "type": "hdri",
+  "res": "4k",
+  "format": "hdr",
+  "main": "rustig_koppie_puresky_4k.hdr",
+  "files": [
+    "rustig_koppie_puresky_4k.hdr"
+  ],
+  "use": "sky candidate, `?hdri=` (`src/world/sky.ts`)"
+}

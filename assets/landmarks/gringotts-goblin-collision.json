@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"gringotts-goblin","kind":"zone","file":"gringotts-goblin-collision.bvhz","encoding":"gzip","bytes":781,"decodedBytes":1560,"bounds":{"min":[-68.74,2.67,-225.74],"max":[-67.76,5.23,-224.76]},"triangles":56,"vertices":32}]}

@@ -1,0 +1,20 @@
+{
+  "id": "grey_tiles",
+  "name": "Grey Tiles",
+  "authors": [
+    "Amal Kumar"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/grey_tiles",
+  "type": "texture",
+  "res": "2k",
+  "main": "grey_tiles.glb",
+  "use": "scored concrete sidewalks (library `sidewalk`)",
+  "dimensions_mm": [
+    2200.000047683716,
+    2200.000047683716
+  ],
+  "bytes": 7694304,
+  "lo": "grey_tiles-lo.glb",
+  "loBytes": 508620
+}

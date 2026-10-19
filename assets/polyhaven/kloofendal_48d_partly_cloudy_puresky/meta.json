@@ -1,0 +1,18 @@
+{
+  "id": "kloofendal_48d_partly_cloudy_puresky",
+  "name": "Kloofendal 48d Partly Cloudy (Pure Sky)",
+  "authors": [
+    "Greg Zaal",
+    "Jarod Guest"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+  "type": "hdri",
+  "res": "4k",
+  "format": "hdr",
+  "main": "kloofendal_48d_partly_cloudy_puresky_4k.hdr",
+  "files": [
+    "kloofendal_48d_partly_cloudy_puresky_4k.hdr"
+  ],
+  "use": "sky background + IBL + sun (`src/world/sky.ts`)"
+}

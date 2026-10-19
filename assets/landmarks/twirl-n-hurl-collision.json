@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"twirl-n-hurl-solids","kind":"zone","file":"twirl-n-hurl-collision.bvhz","encoding":"gzip","bytes":2956,"decodedBytes":6136,"bounds":{"min":[107.54,-2.05,-184.8],"max":[130.13,5.17,-154.84]},"triangles":272,"vertices":160}]}

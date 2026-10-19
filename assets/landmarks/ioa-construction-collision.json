@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"ioa-construction","kind":"zone","file":"ioa-construction-collision.bvhz","encoding":"gzip","bytes":10803,"decodedBytes":20544,"bounds":{"min":[-511.05,-3,290.31],"max":[179.29,6.77,681.46]},"triangles":840,"vertices":560}]}

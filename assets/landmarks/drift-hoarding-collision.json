@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"drift-hoarding","kind":"zone","file":"drift-hoarding-collision.bvhz","encoding":"gzip","bytes":5300,"decodedBytes":10352,"bounds":{"min":[193.54,-1.36,379.62],"max":[251.12,4.64,438.31]},"triangles":432,"vertices":288}]}

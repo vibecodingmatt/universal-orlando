@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"cowfish-statue","kind":"zone","file":"cowfish-statue-collision.bvhz","encoding":"gzip","bytes":516,"decodedBytes":792,"bounds":{"min":[357.09,3.21,516.66],"max":[361.83,4.75,520.02]},"triangles":24,"vertices":16}]}
