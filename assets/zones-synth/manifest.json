@@ -1,0 +1,8007 @@
+{
+ "version": 1,
+ "generatorVersion": 2,
+ "note": "Synthetic stress set for zone streaming (0.5), from tools/assets/synth-zones.mjs. Not park content.",
+ "zones": [
+  {
+   "id": "synth-00-00",
+   "name": "synthetic 0,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -500,
+     0,
+     -500
+    ],
+    "max": [
+     -450,
+     61.16,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-00-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 844644,
+     "gpuBytes": 17832331,
+     "triangles": 62746
+    },
+    {
+     "file": "synth-00-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 105500,
+     "gpuBytes": 1127639,
+     "triangles": 4084
+    },
+    {
+     "file": "synth-00-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3584,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-01-00",
+   "name": "synthetic 1,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -450,
+     0,
+     -500
+    ],
+    "max": [
+     -400,
+     52.76,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-01-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 729260,
+     "gpuBytes": 17538543,
+     "triangles": 45488
+    },
+    {
+     "file": "synth-01-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 87012,
+     "gpuBytes": 1106283,
+     "triangles": 3048
+    },
+    {
+     "file": "synth-01-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2988,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-02-00",
+   "name": "synthetic 2,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -400,
+     0,
+     -500
+    ],
+    "max": [
+     -350,
+     29.26,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-02-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 695164,
+     "gpuBytes": 17599959,
+     "triangles": 49454
+    },
+    {
+     "file": "synth-02-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 75736,
+     "gpuBytes": 1106391,
+     "triangles": 3096
+    },
+    {
+     "file": "synth-02-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2984,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-03-00",
+   "name": "synthetic 3,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -350,
+     0,
+     -500
+    ],
+    "max": [
+     -300,
+     23.61,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-03-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 759760,
+     "gpuBytes": 17698619,
+     "triangles": 54904
+    },
+    {
+     "file": "synth-03-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 81972,
+     "gpuBytes": 1117575,
+     "triangles": 3590
+    },
+    {
+     "file": "synth-03-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3444,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-04-00",
+   "name": "synthetic 4,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -300,
+     0,
+     -500
+    ],
+    "max": [
+     -250,
+     55.24,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-04-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 953940,
+     "gpuBytes": 18362003,
+     "triangles": 95418
+    },
+    {
+     "file": "synth-04-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 111044,
+     "gpuBytes": 1158439,
+     "triangles": 5924
+    },
+    {
+     "file": "synth-04-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3452,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-05-00",
+   "name": "synthetic 5,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -250,
+     0,
+     -500
+    ],
+    "max": [
+     -200,
+     56.84,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-05-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 775164,
+     "gpuBytes": 17517407,
+     "triangles": 44272
+    },
+    {
+     "file": "synth-05-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 100928,
+     "gpuBytes": 1103679,
+     "triangles": 2914
+    },
+    {
+     "file": "synth-05-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2964,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-06-00",
+   "name": "synthetic 6,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -200,
+     0,
+     -500
+    ],
+    "max": [
+     -150,
+     30.85,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-06-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 841640,
+     "gpuBytes": 17883755,
+     "triangles": 65760
+    },
+    {
+     "file": "synth-06-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 97220,
+     "gpuBytes": 1133275,
+     "triangles": 4380
+    },
+    {
+     "file": "synth-06-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3752,
+     "gpuBytes": 3600,
+     "triangles": 100
+    }
+   ]
+  },
+  {
+   "id": "synth-07-00",
+   "name": "synthetic 7,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -150,
+     0,
+     -500
+    ],
+    "max": [
+     -100,
+     51.99,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-07-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 901640,
+     "gpuBytes": 18071915,
+     "triangles": 77510
+    },
+    {
+     "file": "synth-07-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 103216,
+     "gpuBytes": 1142575,
+     "triangles": 4970
+    },
+    {
+     "file": "synth-07-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3600,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-08-00",
+   "name": "synthetic 8,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -100,
+     0,
+     -500
+    ],
+    "max": [
+     -50,
+     58.64,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-08-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 743768,
+     "gpuBytes": 17470323,
+     "triangles": 41368
+    },
+    {
+     "file": "synth-08-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 95080,
+     "gpuBytes": 1098111,
+     "triangles": 2586
+    },
+    {
+     "file": "synth-08-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3000,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-09-00",
+   "name": "synthetic 9,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -50,
+     0,
+     -500
+    ],
+    "max": [
+     0,
+     50.77,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-09-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 839428,
+     "gpuBytes": 17968147,
+     "triangles": 71182
+    },
+    {
+     "file": "synth-09-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 97400,
+     "gpuBytes": 1135695,
+     "triangles": 4580
+    },
+    {
+     "file": "synth-09-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3580,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-10-00",
+   "name": "synthetic 10,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     0,
+     0,
+     -500
+    ],
+    "max": [
+     50,
+     49.12,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-10-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 788104,
+     "gpuBytes": 17908607,
+     "triangles": 67512
+    },
+    {
+     "file": "synth-10-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 86160,
+     "gpuBytes": 1132695,
+     "triangles": 4400
+    },
+    {
+     "file": "synth-10-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3592,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-11-00",
+   "name": "synthetic 11,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     50,
+     0,
+     -500
+    ],
+    "max": [
+     100,
+     43.51,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-11-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 694996,
+     "gpuBytes": 17458131,
+     "triangles": 40676
+    },
+    {
+     "file": "synth-11-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 75508,
+     "gpuBytes": 1098911,
+     "triangles": 2646
+    },
+    {
+     "file": "synth-11-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2980,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-12-00",
+   "name": "synthetic 12,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     100,
+     0,
+     -500
+    ],
+    "max": [
+     150,
+     26.03,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-12-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 768340,
+     "gpuBytes": 17616963,
+     "triangles": 49888
+    },
+    {
+     "file": "synth-12-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 95888,
+     "gpuBytes": 1110503,
+     "triangles": 3178
+    },
+    {
+     "file": "synth-12-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3408,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-13-00",
+   "name": "synthetic 13,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     150,
+     0,
+     -500
+    ],
+    "max": [
+     200,
+     63.91,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-13-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 909012,
+     "gpuBytes": 17996087,
+     "triangles": 72732
+    },
+    {
+     "file": "synth-13-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 112552,
+     "gpuBytes": 1135963,
+     "triangles": 4558
+    },
+    {
+     "file": "synth-13-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3588,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-14-00",
+   "name": "synthetic 14,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     200,
+     0,
+     -500
+    ],
+    "max": [
+     250,
+     56.46,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-14-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 869824,
+     "gpuBytes": 17997679,
+     "triangles": 72714
+    },
+    {
+     "file": "synth-14-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 99380,
+     "gpuBytes": 1139655,
+     "triangles": 4740
+    },
+    {
+     "file": "synth-14-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3768,
+     "gpuBytes": 3600,
+     "triangles": 100
+    }
+   ]
+  },
+  {
+   "id": "synth-15-00",
+   "name": "synthetic 15,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     250,
+     0,
+     -500
+    ],
+    "max": [
+     300,
+     48.09,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-15-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 775616,
+     "gpuBytes": 17629943,
+     "triangles": 51188
+    },
+    {
+     "file": "synth-15-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 91084,
+     "gpuBytes": 1110127,
+     "triangles": 3292
+    },
+    {
+     "file": "synth-15-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2988,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-16-00",
+   "name": "synthetic 16,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     300,
+     0,
+     -500
+    ],
+    "max": [
+     350,
+     31.37,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-16-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 865312,
+     "gpuBytes": 17949415,
+     "triangles": 70100
+    },
+    {
+     "file": "synth-16-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 107076,
+     "gpuBytes": 1133119,
+     "triangles": 4444
+    },
+    {
+     "file": "synth-16-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3612,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-17-00",
+   "name": "synthetic 17,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     350,
+     0,
+     -500
+    ],
+    "max": [
+     400,
+     46.74,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-17-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 816124,
+     "gpuBytes": 17876295,
+     "triangles": 65690
+    },
+    {
+     "file": "synth-17-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 94864,
+     "gpuBytes": 1128187,
+     "triangles": 4182
+    },
+    {
+     "file": "synth-17-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3444,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-18-00",
+   "name": "synthetic 18,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     400,
+     0,
+     -500
+    ],
+    "max": [
+     450,
+     28.07,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-18-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 652228,
+     "gpuBytes": 17405323,
+     "triangles": 37338
+    },
+    {
+     "file": "synth-18-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 74124,
+     "gpuBytes": 1096879,
+     "triangles": 2494
+    },
+    {
+     "file": "synth-18-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3148,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-19-00",
+   "name": "synthetic 19,0",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     450,
+     0,
+     -500
+    ],
+    "max": [
+     500,
+     32,
+     -400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-19-00.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 739712,
+     "gpuBytes": 17617863,
+     "triangles": 49928
+    },
+    {
+     "file": "synth-19-00.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 80728,
+     "gpuBytes": 1113895,
+     "triangles": 3370
+    },
+    {
+     "file": "synth-19-00.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3408,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-00-01",
+   "name": "synthetic 0,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -500,
+     0,
+     -400
+    ],
+    "max": [
+     -450,
+     31.8,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-00-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 843136,
+     "gpuBytes": 17867927,
+     "triangles": 65212
+    },
+    {
+     "file": "synth-00-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 97948,
+     "gpuBytes": 1128399,
+     "triangles": 4204
+    },
+    {
+     "file": "synth-00-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3404,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-01-01",
+   "name": "synthetic 1,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -450,
+     0,
+     -400
+    ],
+    "max": [
+     -400,
+     52.74,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-01-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 773668,
+     "gpuBytes": 17593751,
+     "triangles": 48796
+    },
+    {
+     "file": "synth-01-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 98776,
+     "gpuBytes": 1109907,
+     "triangles": 3232
+    },
+    {
+     "file": "synth-01-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3144,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-02-01",
+   "name": "synthetic 2,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -400,
+     0,
+     -400
+    ],
+    "max": [
+     -350,
+     44.57,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-02-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 743280,
+     "gpuBytes": 17619951,
+     "triangles": 50376
+    },
+    {
+     "file": "synth-02-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 87596,
+     "gpuBytes": 1108439,
+     "triangles": 3144
+    },
+    {
+     "file": "synth-02-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3096,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-03-01",
+   "name": "synthetic 3,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -350,
+     0,
+     -400
+    ],
+    "max": [
+     -300,
+     49.48,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-03-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 835680,
+     "gpuBytes": 18095655,
+     "triangles": 78940
+    },
+    {
+     "file": "synth-03-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 89404,
+     "gpuBytes": 1142955,
+     "triangles": 4990
+    },
+    {
+     "file": "synth-03-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3612,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-04-01",
+   "name": "synthetic 4,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -300,
+     0,
+     -400
+    ],
+    "max": [
+     -250,
+     55.85,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-04-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 818120,
+     "gpuBytes": 17934787,
+     "triangles": 69752
+    },
+    {
+     "file": "synth-04-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 84904,
+     "gpuBytes": 1129631,
+     "triangles": 4396
+    },
+    {
+     "file": "synth-04-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2984,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-05-01",
+   "name": "synthetic 5,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -250,
+     0,
+     -400
+    ],
+    "max": [
+     -200,
+     27.06,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-05-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 750308,
+     "gpuBytes": 17573391,
+     "triangles": 47416
+    },
+    {
+     "file": "synth-05-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 95380,
+     "gpuBytes": 1108699,
+     "triangles": 3124
+    },
+    {
+     "file": "synth-05-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3300,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-06-01",
+   "name": "synthetic 6,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -200,
+     0,
+     -400
+    ],
+    "max": [
+     -150,
+     30.31,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-06-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 873144,
+     "gpuBytes": 17903927,
+     "triangles": 67612
+    },
+    {
+     "file": "synth-06-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 108824,
+     "gpuBytes": 1128007,
+     "triangles": 4232
+    },
+    {
+     "file": "synth-06-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3300,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-07-01",
+   "name": "synthetic 7,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -150,
+     0,
+     -400
+    ],
+    "max": [
+     -100,
+     31.76,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-07-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 827656,
+     "gpuBytes": 17850339,
+     "triangles": 64074
+    },
+    {
+     "file": "synth-07-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 94180,
+     "gpuBytes": 1126175,
+     "triangles": 4060
+    },
+    {
+     "file": "synth-07-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3428,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-08-01",
+   "name": "synthetic 8,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -100,
+     0,
+     -400
+    ],
+    "max": [
+     -50,
+     40.73,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-08-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 810848,
+     "gpuBytes": 17762619,
+     "triangles": 59114
+    },
+    {
+     "file": "synth-08-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 94548,
+     "gpuBytes": 1119823,
+     "triangles": 3798
+    },
+    {
+     "file": "synth-08-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3148,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-09-01",
+   "name": "synthetic 9,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -50,
+     0,
+     -400
+    ],
+    "max": [
+     0,
+     54.48,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-09-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 812136,
+     "gpuBytes": 17743747,
+     "triangles": 57822
+    },
+    {
+     "file": "synth-09-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 102088,
+     "gpuBytes": 1119635,
+     "triangles": 3750
+    },
+    {
+     "file": "synth-09-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3304,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-10-01",
+   "name": "synthetic 10,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     0,
+     0,
+     -400
+    ],
+    "max": [
+     50,
+     61.55,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-10-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 782900,
+     "gpuBytes": 17753335,
+     "triangles": 58510
+    },
+    {
+     "file": "synth-10-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 91232,
+     "gpuBytes": 1118543,
+     "triangles": 3718
+    },
+    {
+     "file": "synth-10-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3112,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-11-01",
+   "name": "synthetic 11,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     50,
+     0,
+     -400
+    ],
+    "max": [
+     100,
+     58.23,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-11-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 732852,
+     "gpuBytes": 17739551,
+     "triangles": 57966
+    },
+    {
+     "file": "synth-11-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 79656,
+     "gpuBytes": 1114979,
+     "triangles": 3584
+    },
+    {
+     "file": "synth-11-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3000,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-12-01",
+   "name": "synthetic 12,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     100,
+     0,
+     -400
+    ],
+    "max": [
+     150,
+     50.65,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-12-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 706756,
+     "gpuBytes": 17504139,
+     "triangles": 43474
+    },
+    {
+     "file": "synth-12-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 76024,
+     "gpuBytes": 1100731,
+     "triangles": 2746
+    },
+    {
+     "file": "synth-12-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2976,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-13-01",
+   "name": "synthetic 13,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     150,
+     0,
+     -400
+    ],
+    "max": [
+     200,
+     30.02,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-13-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 717172,
+     "gpuBytes": 17445019,
+     "triangles": 39774
+    },
+    {
+     "file": "synth-13-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 91648,
+     "gpuBytes": 1098155,
+     "triangles": 2570
+    },
+    {
+     "file": "synth-13-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3108,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-14-01",
+   "name": "synthetic 14,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     200,
+     0,
+     -400
+    ],
+    "max": [
+     250,
+     56.87,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-14-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 828488,
+     "gpuBytes": 17726987,
+     "triangles": 56932
+    },
+    {
+     "file": "synth-14-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 105480,
+     "gpuBytes": 1115623,
+     "triangles": 3558
+    },
+    {
+     "file": "synth-14-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3124,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-15-01",
+   "name": "synthetic 15,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     250,
+     0,
+     -400
+    ],
+    "max": [
+     300,
+     31.09,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-15-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 729912,
+     "gpuBytes": 17513911,
+     "triangles": 44076
+    },
+    {
+     "file": "synth-15-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 85980,
+     "gpuBytes": 1102195,
+     "triangles": 2830
+    },
+    {
+     "file": "synth-15-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3004,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-16-01",
+   "name": "synthetic 16,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     300,
+     0,
+     -400
+    ],
+    "max": [
+     350,
+     26.14,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-16-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 719756,
+     "gpuBytes": 17413979,
+     "triangles": 38064
+    },
+    {
+     "file": "synth-16-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 85884,
+     "gpuBytes": 1094675,
+     "triangles": 2420
+    },
+    {
+     "file": "synth-16-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2992,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-17-01",
+   "name": "synthetic 17,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     350,
+     0,
+     -400
+    ],
+    "max": [
+     400,
+     24.67,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-17-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 697176,
+     "gpuBytes": 17316003,
+     "triangles": 32078
+    },
+    {
+     "file": "synth-17-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 90904,
+     "gpuBytes": 1089223,
+     "triangles": 2108
+    },
+    {
+     "file": "synth-17-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2992,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-18-01",
+   "name": "synthetic 18,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     400,
+     0,
+     -400
+    ],
+    "max": [
+     450,
+     53.24,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-18-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 835828,
+     "gpuBytes": 17946011,
+     "triangles": 70036
+    },
+    {
+     "file": "synth-18-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 95932,
+     "gpuBytes": 1133235,
+     "triangles": 4500
+    },
+    {
+     "file": "synth-18-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3288,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-19-01",
+   "name": "synthetic 19,1",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     450,
+     0,
+     -400
+    ],
+    "max": [
+     500,
+     58.88,
+     -300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-19-01.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 811188,
+     "gpuBytes": 17989839,
+     "triangles": 72484
+    },
+    {
+     "file": "synth-19-01.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 87036,
+     "gpuBytes": 1136571,
+     "triangles": 4636
+    },
+    {
+     "file": "synth-19-01.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3408,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-00-02",
+   "name": "synthetic 0,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -500,
+     0,
+     -300
+    ],
+    "max": [
+     -450,
+     60.59,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-00-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 920344,
+     "gpuBytes": 18198247,
+     "triangles": 85142
+    },
+    {
+     "file": "synth-00-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 102820,
+     "gpuBytes": 1150735,
+     "triangles": 5420
+    },
+    {
+     "file": "synth-00-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3580,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-01-02",
+   "name": "synthetic 1,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -450,
+     0,
+     -300
+    ],
+    "max": [
+     -400,
+     49.05,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-01-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 890188,
+     "gpuBytes": 18041403,
+     "triangles": 75688
+    },
+    {
+     "file": "synth-01-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 102548,
+     "gpuBytes": 1140003,
+     "triangles": 4838
+    },
+    {
+     "file": "synth-01-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3584,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-02-02",
+   "name": "synthetic 2,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -400,
+     0,
+     -300
+    ],
+    "max": [
+     -350,
+     42.68,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-02-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 876612,
+     "gpuBytes": 17969927,
+     "triangles": 71092
+    },
+    {
+     "file": "synth-02-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 109204,
+     "gpuBytes": 1137235,
+     "triangles": 4620
+    },
+    {
+     "file": "synth-02-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3768,
+     "gpuBytes": 3600,
+     "triangles": 100
+    }
+   ]
+  },
+  {
+   "id": "synth-03-02",
+   "name": "synthetic 3,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -350,
+     0,
+     -300
+    ],
+    "max": [
+     -300,
+     25.35,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-03-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 778016,
+     "gpuBytes": 17731979,
+     "triangles": 56784
+    },
+    {
+     "file": "synth-03-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 92008,
+     "gpuBytes": 1120067,
+     "triangles": 3692
+    },
+    {
+     "file": "synth-03-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3580,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-04-02",
+   "name": "synthetic 4,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -300,
+     0,
+     -300
+    ],
+    "max": [
+     -250,
+     43.27,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-04-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 728308,
+     "gpuBytes": 17739071,
+     "triangles": 57326
+    },
+    {
+     "file": "synth-04-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 82672,
+     "gpuBytes": 1119991,
+     "triangles": 3716
+    },
+    {
+     "file": "synth-04-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3440,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-05-02",
+   "name": "synthetic 5,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -250,
+     0,
+     -300
+    ],
+    "max": [
+     -200,
+     63.74,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-05-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 947412,
+     "gpuBytes": 18406231,
+     "triangles": 97976
+    },
+    {
+     "file": "synth-05-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 97588,
+     "gpuBytes": 1164979,
+     "triangles": 6274
+    },
+    {
+     "file": "synth-05-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3408,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-06-02",
+   "name": "synthetic 6,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -200,
+     0,
+     -300
+    ],
+    "max": [
+     -150,
+     46.43,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-06-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 698100,
+     "gpuBytes": 17365531,
+     "triangles": 35046
+    },
+    {
+     "file": "synth-06-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 88932,
+     "gpuBytes": 1093347,
+     "triangles": 2332
+    },
+    {
+     "file": "synth-06-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3004,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-07-02",
+   "name": "synthetic 7,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -150,
+     0,
+     -300
+    ],
+    "max": [
+     -100,
+     28.66,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-07-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 744724,
+     "gpuBytes": 17410167,
+     "triangles": 37782
+    },
+    {
+     "file": "synth-07-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 97276,
+     "gpuBytes": 1092755,
+     "triangles": 2300
+    },
+    {
+     "file": "synth-07-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2980,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-08-02",
+   "name": "synthetic 8,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -100,
+     0,
+     -300
+    ],
+    "max": [
+     -50,
+     28.96,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-08-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 820788,
+     "gpuBytes": 17843203,
+     "triangles": 63728
+    },
+    {
+     "file": "synth-08-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 93908,
+     "gpuBytes": 1125027,
+     "triangles": 4012
+    },
+    {
+     "file": "synth-08-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3436,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-09-02",
+   "name": "synthetic 9,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -50,
+     0,
+     -300
+    ],
+    "max": [
+     0,
+     28.9,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-09-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 795940,
+     "gpuBytes": 17685927,
+     "triangles": 54332
+    },
+    {
+     "file": "synth-09-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 93492,
+     "gpuBytes": 1113123,
+     "triangles": 3388
+    },
+    {
+     "file": "synth-09-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3300,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-10-02",
+   "name": "synthetic 10,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     0,
+     0,
+     -300
+    ],
+    "max": [
+     50,
+     31.22,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-10-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 840828,
+     "gpuBytes": 17822759,
+     "triangles": 62384
+    },
+    {
+     "file": "synth-10-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 104912,
+     "gpuBytes": 1126951,
+     "triangles": 4106
+    },
+    {
+     "file": "synth-10-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3416,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-11-02",
+   "name": "synthetic 11,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     50,
+     0,
+     -300
+    ],
+    "max": [
+     100,
+     51.95,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-11-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 759120,
+     "gpuBytes": 17668367,
+     "triangles": 53512
+    },
+    {
+     "file": "synth-11-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 88656,
+     "gpuBytes": 1111967,
+     "triangles": 3392
+    },
+    {
+     "file": "synth-11-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2988,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-12-02",
+   "name": "synthetic 12,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     100,
+     0,
+     -300
+    ],
+    "max": [
+     150,
+     52.72,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-12-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 667600,
+     "gpuBytes": 17482175,
+     "triangles": 42240
+    },
+    {
+     "file": "synth-12-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 74444,
+     "gpuBytes": 1099247,
+     "triangles": 2682
+    },
+    {
+     "file": "synth-12-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2988,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-13-02",
+   "name": "synthetic 13,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     150,
+     0,
+     -300
+    ],
+    "max": [
+     200,
+     59.69,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-13-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 871052,
+     "gpuBytes": 18147927,
+     "triangles": 82702
+    },
+    {
+     "file": "synth-13-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 89164,
+     "gpuBytes": 1142099,
+     "triangles": 5084
+    },
+    {
+     "file": "synth-13-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3128,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-14-02",
+   "name": "synthetic 14,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     200,
+     0,
+     -300
+    ],
+    "max": [
+     250,
+     56.87,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-14-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 936716,
+     "gpuBytes": 18253027,
+     "triangles": 88472
+    },
+    {
+     "file": "synth-14-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 111480,
+     "gpuBytes": 1157143,
+     "triangles": 5788
+    },
+    {
+     "file": "synth-14-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3604,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-15-02",
+   "name": "synthetic 15,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     250,
+     0,
+     -300
+    ],
+    "max": [
+     300,
+     58.92,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-15-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 854104,
+     "gpuBytes": 17777547,
+     "triangles": 59452
+    },
+    {
+     "file": "synth-15-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 108680,
+     "gpuBytes": 1123751,
+     "triangles": 3876
+    },
+    {
+     "file": "synth-15-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3588,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-16-02",
+   "name": "synthetic 16,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     300,
+     0,
+     -300
+    ],
+    "max": [
+     350,
+     49.25,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-16-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 765436,
+     "gpuBytes": 17609199,
+     "triangles": 49354
+    },
+    {
+     "file": "synth-16-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 89936,
+     "gpuBytes": 1113495,
+     "triangles": 3340
+    },
+    {
+     "file": "synth-16-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3432,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-17-02",
+   "name": "synthetic 17,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     350,
+     0,
+     -300
+    ],
+    "max": [
+     400,
+     28.56,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-17-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 721664,
+     "gpuBytes": 17410163,
+     "triangles": 37778
+    },
+    {
+     "file": "synth-17-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 86612,
+     "gpuBytes": 1094803,
+     "triangles": 2418
+    },
+    {
+     "file": "synth-17-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2996,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-18-02",
+   "name": "synthetic 18,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     400,
+     0,
+     -300
+    ],
+    "max": [
+     450,
+     64.83,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-18-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 1033280,
+     "gpuBytes": 18534179,
+     "triangles": 105314
+    },
+    {
+     "file": "synth-18-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 120948,
+     "gpuBytes": 1173295,
+     "triangles": 6630
+    },
+    {
+     "file": "synth-18-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3732,
+     "gpuBytes": 3600,
+     "triangles": 100
+    }
+   ]
+  },
+  {
+   "id": "synth-19-02",
+   "name": "synthetic 19,2",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     450,
+     0,
+     -300
+    ],
+    "max": [
+     500,
+     50.33,
+     -200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-19-02.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 769032,
+     "gpuBytes": 17726959,
+     "triangles": 57174
+    },
+    {
+     "file": "synth-19-02.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 89984,
+     "gpuBytes": 1115815,
+     "triangles": 3630
+    },
+    {
+     "file": "synth-19-02.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2976,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-00-03",
+   "name": "synthetic 0,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -500,
+     0,
+     -200
+    ],
+    "max": [
+     -450,
+     55.15,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-00-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 807256,
+     "gpuBytes": 17639699,
+     "triangles": 51774
+    },
+    {
+     "file": "synth-00-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 103380,
+     "gpuBytes": 1110515,
+     "triangles": 3310
+    },
+    {
+     "file": "synth-00-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3012,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-01-03",
+   "name": "synthetic 1,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -450,
+     0,
+     -200
+    ],
+    "max": [
+     -400,
+     31.93,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-01-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 766636,
+     "gpuBytes": 17618127,
+     "triangles": 50122
+    },
+    {
+     "file": "synth-01-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 88776,
+     "gpuBytes": 1110795,
+     "triangles": 3240
+    },
+    {
+     "file": "synth-01-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3244,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-02-03",
+   "name": "synthetic 2,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -400,
+     0,
+     -200
+    ],
+    "max": [
+     -350,
+     51.41,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-02-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 814068,
+     "gpuBytes": 17768203,
+     "triangles": 59368
+    },
+    {
+     "file": "synth-02-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 95304,
+     "gpuBytes": 1119359,
+     "triangles": 3744
+    },
+    {
+     "file": "synth-02-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3264,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-03-03",
+   "name": "synthetic 3,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -350,
+     0,
+     -200
+    ],
+    "max": [
+     -300,
+     63.52,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-03-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 912508,
+     "gpuBytes": 18132311,
+     "triangles": 81546
+    },
+    {
+     "file": "synth-03-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 110032,
+     "gpuBytes": 1144287,
+     "triangles": 5162
+    },
+    {
+     "file": "synth-03-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3312,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-04-03",
+   "name": "synthetic 4,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -300,
+     0,
+     -200
+    ],
+    "max": [
+     -250,
+     61.87,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-04-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 940828,
+     "gpuBytes": 18345267,
+     "triangles": 94282
+    },
+    {
+     "file": "synth-04-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 105048,
+     "gpuBytes": 1160699,
+     "triangles": 6034
+    },
+    {
+     "file": "synth-04-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3428,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-05-03",
+   "name": "synthetic 5,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -250,
+     0,
+     -200
+    ],
+    "max": [
+     -200,
+     61.05,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-05-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 897668,
+     "gpuBytes": 18327299,
+     "triangles": 93044
+    },
+    {
+     "file": "synth-05-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 95144,
+     "gpuBytes": 1159455,
+     "triangles": 5920
+    },
+    {
+     "file": "synth-05-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3604,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-06-03",
+   "name": "synthetic 6,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -200,
+     0,
+     -200
+    ],
+    "max": [
+     -150,
+     31.98,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-06-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 858460,
+     "gpuBytes": 18072943,
+     "triangles": 77568
+    },
+    {
+     "file": "synth-06-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 89588,
+     "gpuBytes": 1139731,
+     "triangles": 4806
+    },
+    {
+     "file": "synth-06-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3616,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-07-03",
+   "name": "synthetic 7,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -150,
+     0,
+     -200
+    ],
+    "max": [
+     -100,
+     57.11,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-07-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 867292,
+     "gpuBytes": 18003267,
+     "triangles": 73432
+    },
+    {
+     "file": "synth-07-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 104980,
+     "gpuBytes": 1138431,
+     "triangles": 4766
+    },
+    {
+     "file": "synth-07-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3416,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-08-03",
+   "name": "synthetic 8,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -100,
+     0,
+     -200
+    ],
+    "max": [
+     -50,
+     40.66,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-08-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 841920,
+     "gpuBytes": 17749075,
+     "triangles": 57910
+    },
+    {
+     "file": "synth-08-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 107732,
+     "gpuBytes": 1122023,
+     "triangles": 3828
+    },
+    {
+     "file": "synth-08-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3412,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-09-03",
+   "name": "synthetic 9,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -50,
+     0,
+     -200
+    ],
+    "max": [
+     0,
+     64.98,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-09-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 1005824,
+     "gpuBytes": 18519715,
+     "triangles": 104790
+    },
+    {
+     "file": "synth-09-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 109184,
+     "gpuBytes": 1170239,
+     "triangles": 6534
+    },
+    {
+     "file": "synth-09-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3620,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-10-03",
+   "name": "synthetic 10,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     0,
+     0,
+     -200
+    ],
+    "max": [
+     50,
+     50.36,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-10-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 760320,
+     "gpuBytes": 17548311,
+     "triangles": 46136
+    },
+    {
+     "file": "synth-10-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 89904,
+     "gpuBytes": 1105167,
+     "triangles": 2992
+    },
+    {
+     "file": "synth-10-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2980,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-11-03",
+   "name": "synthetic 11,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     50,
+     0,
+     -200
+    ],
+    "max": [
+     100,
+     22.4,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-11-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 806308,
+     "gpuBytes": 17699707,
+     "triangles": 54772
+    },
+    {
+     "file": "synth-11-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 102764,
+     "gpuBytes": 1119219,
+     "triangles": 3634
+    },
+    {
+     "file": "synth-11-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3588,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-12-03",
+   "name": "synthetic 12,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     100,
+     0,
+     -200
+    ],
+    "max": [
+     150,
+     42.19,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-12-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 684780,
+     "gpuBytes": 17395319,
+     "triangles": 36864
+    },
+    {
+     "file": "synth-12-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 82656,
+     "gpuBytes": 1094755,
+     "triangles": 2410
+    },
+    {
+     "file": "synth-12-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3004,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-13-03",
+   "name": "synthetic 13,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     150,
+     0,
+     -200
+    ],
+    "max": [
+     200,
+     58.48,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-13-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 743388,
+     "gpuBytes": 17763463,
+     "triangles": 59228
+    },
+    {
+     "file": "synth-13-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 80576,
+     "gpuBytes": 1116675,
+     "triangles": 3630
+    },
+    {
+     "file": "synth-13-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3124,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-14-03",
+   "name": "synthetic 14,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     200,
+     0,
+     -200
+    ],
+    "max": [
+     250,
+     46.99,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-14-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 799664,
+     "gpuBytes": 17898839,
+     "triangles": 67254
+    },
+    {
+     "file": "synth-14-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 86268,
+     "gpuBytes": 1129119,
+     "triangles": 4284
+    },
+    {
+     "file": "synth-14-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3268,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-15-03",
+   "name": "synthetic 15,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     250,
+     0,
+     -200
+    ],
+    "max": [
+     300,
+     61.18,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-15-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 842508,
+     "gpuBytes": 17919227,
+     "triangles": 68532
+    },
+    {
+     "file": "synth-15-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 101004,
+     "gpuBytes": 1127491,
+     "triangles": 4196
+    },
+    {
+     "file": "synth-15-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3308,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-16-03",
+   "name": "synthetic 16,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     300,
+     0,
+     -200
+    ],
+    "max": [
+     350,
+     63.26,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-16-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 927968,
+     "gpuBytes": 18055623,
+     "triangles": 76318
+    },
+    {
+     "file": "synth-16-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 115004,
+     "gpuBytes": 1142639,
+     "triangles": 4934
+    },
+    {
+     "file": "synth-16-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3616,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-17-03",
+   "name": "synthetic 17,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     350,
+     0,
+     -200
+    ],
+    "max": [
+     400,
+     31.27,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-17-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 762572,
+     "gpuBytes": 17627671,
+     "triangles": 50616
+    },
+    {
+     "file": "synth-17-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 88760,
+     "gpuBytes": 1110883,
+     "triangles": 3218
+    },
+    {
+     "file": "synth-17-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3436,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-18-03",
+   "name": "synthetic 18,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     400,
+     0,
+     -200
+    ],
+    "max": [
+     450,
+     29.94,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-18-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 847536,
+     "gpuBytes": 17886695,
+     "triangles": 66370
+    },
+    {
+     "file": "synth-18-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 97920,
+     "gpuBytes": 1127571,
+     "triangles": 4156
+    },
+    {
+     "file": "synth-18-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3428,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-19-03",
+   "name": "synthetic 19,3",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     450,
+     0,
+     -200
+    ],
+    "max": [
+     500,
+     58.52,
+     -100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-19-03.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 851544,
+     "gpuBytes": 17872655,
+     "triangles": 65410
+    },
+    {
+     "file": "synth-19-03.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 105412,
+     "gpuBytes": 1128399,
+     "triangles": 4184
+    },
+    {
+     "file": "synth-19-03.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3436,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-00-04",
+   "name": "synthetic 0,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -500,
+     0,
+     -100
+    ],
+    "max": [
+     -450,
+     62.19,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-00-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 837028,
+     "gpuBytes": 17918251,
+     "triangles": 68866
+    },
+    {
+     "file": "synth-00-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 101204,
+     "gpuBytes": 1128131,
+     "triangles": 4336
+    },
+    {
+     "file": "synth-00-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2980,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-01-04",
+   "name": "synthetic 1,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -450,
+     0,
+     -100
+    ],
+    "max": [
+     -400,
+     43.99,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-01-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 945556,
+     "gpuBytes": 18154579,
+     "triangles": 82534
+    },
+    {
+     "file": "synth-01-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 116004,
+     "gpuBytes": 1145627,
+     "triangles": 5142
+    },
+    {
+     "file": "synth-01-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3616,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-02-04",
+   "name": "synthetic 2,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -400,
+     0,
+     -100
+    ],
+    "max": [
+     -350,
+     63.61,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-02-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 870008,
+     "gpuBytes": 18008867,
+     "triangles": 74192
+    },
+    {
+     "file": "synth-02-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 96468,
+     "gpuBytes": 1133895,
+     "triangles": 4620
+    },
+    {
+     "file": "synth-02-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2988,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-03-04",
+   "name": "synthetic 3,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -350,
+     0,
+     -100
+    ],
+    "max": [
+     -300,
+     62.88,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-03-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 1010992,
+     "gpuBytes": 18464863,
+     "triangles": 101068
+    },
+    {
+     "file": "synth-03-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 114284,
+     "gpuBytes": 1170791,
+     "triangles": 6486
+    },
+    {
+     "file": "synth-03-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3772,
+     "gpuBytes": 3600,
+     "triangles": 100
+    }
+   ]
+  },
+  {
+   "id": "synth-04-04",
+   "name": "synthetic 4,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -300,
+     0,
+     -100
+    ],
+    "max": [
+     -250,
+     45.21,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-04-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 804512,
+     "gpuBytes": 17709479,
+     "triangles": 55854
+    },
+    {
+     "file": "synth-04-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 100900,
+     "gpuBytes": 1115695,
+     "triangles": 3560
+    },
+    {
+     "file": "synth-04-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3148,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-05-04",
+   "name": "synthetic 5,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -250,
+     0,
+     -100
+    ],
+    "max": [
+     -200,
+     22.68,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-05-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 773624,
+     "gpuBytes": 17710463,
+     "triangles": 55468
+    },
+    {
+     "file": "synth-05-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 91664,
+     "gpuBytes": 1118027,
+     "triangles": 3572
+    },
+    {
+     "file": "synth-05-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3588,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-06-04",
+   "name": "synthetic 6,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -200,
+     0,
+     -100
+    ],
+    "max": [
+     -150,
+     44.25,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-06-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 756580,
+     "gpuBytes": 17796307,
+     "triangles": 60972
+    },
+    {
+     "file": "synth-06-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 82408,
+     "gpuBytes": 1123167,
+     "triangles": 3942
+    },
+    {
+     "file": "synth-06-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3296,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-07-04",
+   "name": "synthetic 7,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -150,
+     0,
+     -100
+    ],
+    "max": [
+     -100,
+     19.66,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-07-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 635560,
+     "gpuBytes": 17233127,
+     "triangles": 27012
+    },
+    {
+     "file": "synth-07-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 70340,
+     "gpuBytes": 1083323,
+     "triangles": 1768
+    },
+    {
+     "file": "synth-07-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2988,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-08-04",
+   "name": "synthetic 8,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -100,
+     0,
+     -100
+    ],
+    "max": [
+     -50,
+     30.31,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-08-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 720040,
+     "gpuBytes": 17458411,
+     "triangles": 40546
+    },
+    {
+     "file": "synth-08-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 92980,
+     "gpuBytes": 1101711,
+     "triangles": 2766
+    },
+    {
+     "file": "synth-08-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3132,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-09-04",
+   "name": "synthetic 9,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -50,
+     0,
+     -100
+    ],
+    "max": [
+     0,
+     31.45,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-09-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 861312,
+     "gpuBytes": 17827423,
+     "triangles": 62778
+    },
+    {
+     "file": "synth-09-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 108448,
+     "gpuBytes": 1125247,
+     "triangles": 4032
+    },
+    {
+     "file": "synth-09-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3432,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-10-04",
+   "name": "synthetic 10,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     0,
+     0,
+     -100
+    ],
+    "max": [
+     50,
+     56.22,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-10-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 798600,
+     "gpuBytes": 17741955,
+     "triangles": 57750
+    },
+    {
+     "file": "synth-10-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 89888,
+     "gpuBytes": 1115543,
+     "triangles": 3528
+    },
+    {
+     "file": "synth-10-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3132,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-11-04",
+   "name": "synthetic 11,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     50,
+     0,
+     -100
+    ],
+    "max": [
+     100,
+     52.52,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-11-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 817168,
+     "gpuBytes": 17767691,
+     "triangles": 59396
+    },
+    {
+     "file": "synth-11-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 94956,
+     "gpuBytes": 1120191,
+     "triangles": 3816
+    },
+    {
+     "file": "synth-11-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3136,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-12-04",
+   "name": "synthetic 12,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     100,
+     0,
+     -100
+    ],
+    "max": [
+     150,
+     47.22,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-12-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 853580,
+     "gpuBytes": 17908239,
+     "triangles": 67884
+    },
+    {
+     "file": "synth-12-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 105376,
+     "gpuBytes": 1129655,
+     "triangles": 4330
+    },
+    {
+     "file": "synth-12-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3312,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-13-04",
+   "name": "synthetic 13,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     150,
+     0,
+     -100
+    ],
+    "max": [
+     200,
+     50.22,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-13-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 785948,
+     "gpuBytes": 17768223,
+     "triangles": 59178
+    },
+    {
+     "file": "synth-13-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 92320,
+     "gpuBytes": 1121907,
+     "triangles": 3842
+    },
+    {
+     "file": "synth-13-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3436,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-14-04",
+   "name": "synthetic 14,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     200,
+     0,
+     -100
+    ],
+    "max": [
+     250,
+     44.95,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-14-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 755592,
+     "gpuBytes": 17792307,
+     "triangles": 60512
+    },
+    {
+     "file": "synth-14-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 82468,
+     "gpuBytes": 1121983,
+     "triangles": 3818
+    },
+    {
+     "file": "synth-14-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3404,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-15-04",
+   "name": "synthetic 15,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     250,
+     0,
+     -100
+    ],
+    "max": [
+     300,
+     44.05,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-15-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 793812,
+     "gpuBytes": 17876887,
+     "triangles": 66012
+    },
+    {
+     "file": "synth-15-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 85344,
+     "gpuBytes": 1125851,
+     "triangles": 4116
+    },
+    {
+     "file": "synth-15-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3312,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-16-04",
+   "name": "synthetic 16,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     300,
+     0,
+     -100
+    ],
+    "max": [
+     350,
+     29.55,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-16-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 819268,
+     "gpuBytes": 17830299,
+     "triangles": 62984
+    },
+    {
+     "file": "synth-16-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 100404,
+     "gpuBytes": 1124983,
+     "triangles": 4018
+    },
+    {
+     "file": "synth-16-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3432,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-17-04",
+   "name": "synthetic 17,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     350,
+     0,
+     -100
+    ],
+    "max": [
+     400,
+     64.35,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-17-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 1013516,
+     "gpuBytes": 18376819,
+     "triangles": 95774
+    },
+    {
+     "file": "synth-17-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 122576,
+     "gpuBytes": 1163527,
+     "triangles": 6082
+    },
+    {
+     "file": "synth-17-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3736,
+     "gpuBytes": 3600,
+     "triangles": 100
+    }
+   ]
+  },
+  {
+   "id": "synth-18-04",
+   "name": "synthetic 18,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     400,
+     0,
+     -100
+    ],
+    "max": [
+     450,
+     51.85,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-18-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 849036,
+     "gpuBytes": 17925795,
+     "triangles": 68660
+    },
+    {
+     "file": "synth-18-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 97100,
+     "gpuBytes": 1133619,
+     "triangles": 4484
+    },
+    {
+     "file": "synth-18-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3416,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-19-04",
+   "name": "synthetic 19,4",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     450,
+     0,
+     -100
+    ],
+    "max": [
+     500,
+     30.79,
+     0
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-19-04.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 752376,
+     "gpuBytes": 17508979,
+     "triangles": 43474
+    },
+    {
+     "file": "synth-19-04.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 90632,
+     "gpuBytes": 1105239,
+     "triangles": 2924
+    },
+    {
+     "file": "synth-19-04.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3272,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-00-05",
+   "name": "synthetic 0,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -500,
+     0,
+     0
+    ],
+    "max": [
+     -450,
+     26.28,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-00-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 764444,
+     "gpuBytes": 17720187,
+     "triangles": 56252
+    },
+    {
+     "file": "synth-00-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 81816,
+     "gpuBytes": 1117931,
+     "triangles": 3616
+    },
+    {
+     "file": "synth-00-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3444,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-01-05",
+   "name": "synthetic 1,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -450,
+     0,
+     0
+    ],
+    "max": [
+     -400,
+     31.67,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-01-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 859960,
+     "gpuBytes": 17978035,
+     "triangles": 71900
+    },
+    {
+     "file": "synth-01-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 103404,
+     "gpuBytes": 1134359,
+     "triangles": 4534
+    },
+    {
+     "file": "synth-01-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3420,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-02-05",
+   "name": "synthetic 2,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -400,
+     0,
+     0
+    ],
+    "max": [
+     -350,
+     55.45,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-02-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 999432,
+     "gpuBytes": 18324503,
+     "triangles": 92728
+    },
+    {
+     "file": "synth-02-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 121048,
+     "gpuBytes": 1160907,
+     "triangles": 5972
+    },
+    {
+     "file": "synth-02-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3608,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-03-05",
+   "name": "synthetic 3,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -350,
+     0,
+     0
+    ],
+    "max": [
+     -300,
+     60.79,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-03-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 854480,
+     "gpuBytes": 17983823,
+     "triangles": 72858
+    },
+    {
+     "file": "synth-03-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 95908,
+     "gpuBytes": 1131991,
+     "triangles": 4556
+    },
+    {
+     "file": "synth-03-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2988,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-04-05",
+   "name": "synthetic 4,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -300,
+     0,
+     0
+    ],
+    "max": [
+     -250,
+     63.02,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-04-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 914124,
+     "gpuBytes": 18119863,
+     "triangles": 80818
+    },
+    {
+     "file": "synth-04-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 103472,
+     "gpuBytes": 1143127,
+     "triangles": 5112
+    },
+    {
+     "file": "synth-04-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3140,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-05-05",
+   "name": "synthetic 5,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -250,
+     0,
+     0
+    ],
+    "max": [
+     -200,
+     56.58,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-05-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 883616,
+     "gpuBytes": 17995619,
+     "triangles": 72974
+    },
+    {
+     "file": "synth-05-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 109260,
+     "gpuBytes": 1136915,
+     "triangles": 4680
+    },
+    {
+     "file": "synth-05-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3440,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-06-05",
+   "name": "synthetic 6,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -200,
+     0,
+     0
+    ],
+    "max": [
+     -150,
+     49.5,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-06-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 884096,
+     "gpuBytes": 18133015,
+     "triangles": 81230
+    },
+    {
+     "file": "synth-06-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 100048,
+     "gpuBytes": 1144791,
+     "triangles": 5096
+    },
+    {
+     "file": "synth-06-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3608,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-07-05",
+   "name": "synthetic 7,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -150,
+     0,
+     0
+    ],
+    "max": [
+     -100,
+     29.05,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-07-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 643156,
+     "gpuBytes": 17379455,
+     "triangles": 35910
+    },
+    {
+     "file": "synth-07-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 72412,
+     "gpuBytes": 1092715,
+     "triangles": 2300
+    },
+    {
+     "file": "synth-07-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2984,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-08-05",
+   "name": "synthetic 8,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -100,
+     0,
+     0
+    ],
+    "max": [
+     -50,
+     31.96,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-08-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 833420,
+     "gpuBytes": 17969619,
+     "triangles": 71244
+    },
+    {
+     "file": "synth-08-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 88012,
+     "gpuBytes": 1133875,
+     "triangles": 4470
+    },
+    {
+     "file": "synth-08-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3584,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-09-05",
+   "name": "synthetic 9,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -50,
+     0,
+     0
+    ],
+    "max": [
+     0,
+     60.81,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-09-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 749924,
+     "gpuBytes": 17538627,
+     "triangles": 45382
+    },
+    {
+     "file": "synth-09-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 94352,
+     "gpuBytes": 1105411,
+     "triangles": 2966
+    },
+    {
+     "file": "synth-09-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3144,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-10-05",
+   "name": "synthetic 10,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     0,
+     0,
+     0
+    ],
+    "max": [
+     50,
+     25.38,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-10-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 805528,
+     "gpuBytes": 17621571,
+     "triangles": 50496
+    },
+    {
+     "file": "synth-10-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 103644,
+     "gpuBytes": 1111911,
+     "triangles": 3346
+    },
+    {
+     "file": "synth-10-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3096,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-11-05",
+   "name": "synthetic 11,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     50,
+     0,
+     0
+    ],
+    "max": [
+     100,
+     49.23,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-11-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 806692,
+     "gpuBytes": 17796523,
+     "triangles": 61098
+    },
+    {
+     "file": "synth-11-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 92924,
+     "gpuBytes": 1123311,
+     "triangles": 3976
+    },
+    {
+     "file": "synth-11-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3308,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-12-05",
+   "name": "synthetic 12,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     100,
+     0,
+     0
+    ],
+    "max": [
+     150,
+     30.14,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-12-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 814192,
+     "gpuBytes": 17734135,
+     "triangles": 56730
+    },
+    {
+     "file": "synth-12-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 97172,
+     "gpuBytes": 1122507,
+     "triangles": 3782
+    },
+    {
+     "file": "synth-12-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3740,
+     "gpuBytes": 3600,
+     "triangles": 100
+    }
+   ]
+  },
+  {
+   "id": "synth-13-05",
+   "name": "synthetic 13,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     150,
+     0,
+     0
+    ],
+    "max": [
+     200,
+     59.5,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-13-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 893112,
+     "gpuBytes": 18041863,
+     "triangles": 75678
+    },
+    {
+     "file": "synth-13-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 110184,
+     "gpuBytes": 1141659,
+     "triangles": 4924
+    },
+    {
+     "file": "synth-13-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3580,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-14-05",
+   "name": "synthetic 14,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     200,
+     0,
+     0
+    ],
+    "max": [
+     250,
+     26.47,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-14-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 797760,
+     "gpuBytes": 17800699,
+     "triangles": 60944
+    },
+    {
+     "file": "synth-14-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 94352,
+     "gpuBytes": 1125955,
+     "triangles": 4020
+    },
+    {
+     "file": "synth-14-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3576,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-15-05",
+   "name": "synthetic 15,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     250,
+     0,
+     0
+    ],
+    "max": [
+     300,
+     57.38,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-15-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 772708,
+     "gpuBytes": 17854871,
+     "triangles": 64396
+    },
+    {
+     "file": "synth-15-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 84316,
+     "gpuBytes": 1125847,
+     "triangles": 4052
+    },
+    {
+     "file": "synth-15-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3412,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-16-05",
+   "name": "synthetic 16,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     300,
+     0,
+     0
+    ],
+    "max": [
+     350,
+     26.89,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-16-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 739104,
+     "gpuBytes": 17607959,
+     "triangles": 49214
+    },
+    {
+     "file": "synth-16-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 80356,
+     "gpuBytes": 1111887,
+     "triangles": 3222
+    },
+    {
+     "file": "synth-16-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3596,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-17-05",
+   "name": "synthetic 17,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     350,
+     0,
+     0
+    ],
+    "max": [
+     400,
+     42.98,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-17-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 803756,
+     "gpuBytes": 17755635,
+     "triangles": 58330
+    },
+    {
+     "file": "synth-17-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 98976,
+     "gpuBytes": 1120307,
+     "triangles": 3732
+    },
+    {
+     "file": "synth-17-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3452,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-18-05",
+   "name": "synthetic 18,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     400,
+     0,
+     0
+    ],
+    "max": [
+     450,
+     60.05,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-18-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 790560,
+     "gpuBytes": 17563983,
+     "triangles": 46958
+    },
+    {
+     "file": "synth-18-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 102124,
+     "gpuBytes": 1105463,
+     "triangles": 2968
+    },
+    {
+     "file": "synth-18-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3136,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-19-05",
+   "name": "synthetic 19,5",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     450,
+     0,
+     0
+    ],
+    "max": [
+     500,
+     28.19,
+     100
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-19-05.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 707388,
+     "gpuBytes": 17410791,
+     "triangles": 37836
+    },
+    {
+     "file": "synth-19-05.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 83484,
+     "gpuBytes": 1095379,
+     "triangles": 2454
+    },
+    {
+     "file": "synth-19-05.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2984,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-00-06",
+   "name": "synthetic 0,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -500,
+     0,
+     100
+    ],
+    "max": [
+     -450,
+     48.46,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-00-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 728600,
+     "gpuBytes": 17703411,
+     "triangles": 55096
+    },
+    {
+     "file": "synth-00-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 80476,
+     "gpuBytes": 1115963,
+     "triangles": 3468
+    },
+    {
+     "file": "synth-00-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3612,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-01-06",
+   "name": "synthetic 1,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -450,
+     0,
+     100
+    ],
+    "max": [
+     -400,
+     58.63,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-01-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 864352,
+     "gpuBytes": 18112531,
+     "triangles": 80156
+    },
+    {
+     "file": "synth-01-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 89852,
+     "gpuBytes": 1142371,
+     "triangles": 5006
+    },
+    {
+     "file": "synth-01-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3440,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-02-06",
+   "name": "synthetic 2,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -400,
+     0,
+     100
+    ],
+    "max": [
+     -350,
+     57.57,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-02-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 896308,
+     "gpuBytes": 18088411,
+     "triangles": 78356
+    },
+    {
+     "file": "synth-02-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 108568,
+     "gpuBytes": 1147943,
+     "triangles": 5248
+    },
+    {
+     "file": "synth-02-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3560,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-03-06",
+   "name": "synthetic 3,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -350,
+     0,
+     100
+    ],
+    "max": [
+     -300,
+     31.6,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-03-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 721860,
+     "gpuBytes": 17319263,
+     "triangles": 32228
+    },
+    {
+     "file": "synth-03-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 96056,
+     "gpuBytes": 1089403,
+     "triangles": 2108
+    },
+    {
+     "file": "synth-03-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3004,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-04-06",
+   "name": "synthetic 4,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -300,
+     0,
+     100
+    ],
+    "max": [
+     -250,
+     31.21,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-04-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 718404,
+     "gpuBytes": 17451715,
+     "triangles": 40320
+    },
+    {
+     "file": "synth-04-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 83288,
+     "gpuBytes": 1096531,
+     "triangles": 2516
+    },
+    {
+     "file": "synth-04-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2996,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-05-06",
+   "name": "synthetic 5,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -250,
+     0,
+     100
+    ],
+    "max": [
+     -200,
+     51.29,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-05-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 842244,
+     "gpuBytes": 17866231,
+     "triangles": 64956
+    },
+    {
+     "file": "synth-05-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 98624,
+     "gpuBytes": 1128279,
+     "triangles": 4154
+    },
+    {
+     "file": "synth-05-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3572,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-06-06",
+   "name": "synthetic 6,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -200,
+     0,
+     100
+    ],
+    "max": [
+     -150,
+     44.96,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-06-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 838824,
+     "gpuBytes": 17836587,
+     "triangles": 63452
+    },
+    {
+     "file": "synth-06-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 104172,
+     "gpuBytes": 1124387,
+     "triangles": 4012
+    },
+    {
+     "file": "synth-06-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3304,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-07-06",
+   "name": "synthetic 7,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -150,
+     0,
+     100
+    ],
+    "max": [
+     -100,
+     57.33,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-07-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 729648,
+     "gpuBytes": 17533499,
+     "triangles": 45044
+    },
+    {
+     "file": "synth-07-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 87308,
+     "gpuBytes": 1105567,
+     "triangles": 2972
+    },
+    {
+     "file": "synth-07-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3132,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-08-06",
+   "name": "synthetic 8,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -100,
+     0,
+     100
+    ],
+    "max": [
+     -50,
+     59.4,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-08-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 957172,
+     "gpuBytes": 18564067,
+     "triangles": 107752
+    },
+    {
+     "file": "synth-08-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 99076,
+     "gpuBytes": 1174411,
+     "triangles": 6846
+    },
+    {
+     "file": "synth-08-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3428,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-09-06",
+   "name": "synthetic 9,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -50,
+     0,
+     100
+    ],
+    "max": [
+     0,
+     61.24,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-09-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 922944,
+     "gpuBytes": 18316795,
+     "triangles": 92650
+    },
+    {
+     "file": "synth-09-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 94972,
+     "gpuBytes": 1156911,
+     "triangles": 5836
+    },
+    {
+     "file": "synth-09-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3432,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-10-06",
+   "name": "synthetic 10,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     0,
+     0,
+     100
+    ],
+    "max": [
+     50,
+     56.65,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-10-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 894432,
+     "gpuBytes": 18080891,
+     "triangles": 77886
+    },
+    {
+     "file": "synth-10-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 108176,
+     "gpuBytes": 1145903,
+     "triangles": 5118
+    },
+    {
+     "file": "synth-10-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3732,
+     "gpuBytes": 3600,
+     "triangles": 100
+    }
+   ]
+  },
+  {
+   "id": "synth-11-06",
+   "name": "synthetic 11,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     50,
+     0,
+     100
+    ],
+    "max": [
+     100,
+     54.81,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-11-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 813324,
+     "gpuBytes": 17661975,
+     "triangles": 52870
+    },
+    {
+     "file": "synth-11-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 104368,
+     "gpuBytes": 1113631,
+     "triangles": 3416
+    },
+    {
+     "file": "synth-11-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3312,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-12-06",
+   "name": "synthetic 12,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     100,
+     0,
+     100
+    ],
+    "max": [
+     150,
+     55.62,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-12-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 861356,
+     "gpuBytes": 17983011,
+     "triangles": 72336
+    },
+    {
+     "file": "synth-12-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 96788,
+     "gpuBytes": 1135891,
+     "triangles": 4666
+    },
+    {
+     "file": "synth-12-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3292,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-13-06",
+   "name": "synthetic 13,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     150,
+     0,
+     100
+    ],
+    "max": [
+     200,
+     30.62,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-13-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 759240,
+     "gpuBytes": 17562067,
+     "triangles": 46902
+    },
+    {
+     "file": "synth-13-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 90428,
+     "gpuBytes": 1105799,
+     "triangles": 3004
+    },
+    {
+     "file": "synth-13-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3120,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-14-06",
+   "name": "synthetic 14,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     200,
+     0,
+     100
+    ],
+    "max": [
+     250,
+     58.93,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-14-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 954140,
+     "gpuBytes": 18319167,
+     "triangles": 92882
+    },
+    {
+     "file": "synth-14-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 115104,
+     "gpuBytes": 1159999,
+     "triangles": 6044
+    },
+    {
+     "file": "synth-14-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3448,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-15-06",
+   "name": "synthetic 15,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     250,
+     0,
+     100
+    ],
+    "max": [
+     300,
+     26.52,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-15-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 752868,
+     "gpuBytes": 17649455,
+     "triangles": 51900
+    },
+    {
+     "file": "synth-15-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 90352,
+     "gpuBytes": 1115027,
+     "triangles": 3442
+    },
+    {
+     "file": "synth-15-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3436,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-16-06",
+   "name": "synthetic 16,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     300,
+     0,
+     100
+    ],
+    "max": [
+     350,
+     49.01,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-16-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 812072,
+     "gpuBytes": 17985635,
+     "triangles": 71980
+    },
+    {
+     "file": "synth-16-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 88840,
+     "gpuBytes": 1140095,
+     "triangles": 4770
+    },
+    {
+     "file": "synth-16-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3724,
+     "gpuBytes": 3600,
+     "triangles": 100
+    }
+   ]
+  },
+  {
+   "id": "synth-17-06",
+   "name": "synthetic 17,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     350,
+     0,
+     100
+    ],
+    "max": [
+     400,
+     31.6,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-17-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 718248,
+     "gpuBytes": 17544695,
+     "triangles": 45800
+    },
+    {
+     "file": "synth-17-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 77740,
+     "gpuBytes": 1104751,
+     "triangles": 2936
+    },
+    {
+     "file": "synth-17-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3148,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-18-06",
+   "name": "synthetic 18,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     400,
+     0,
+     100
+    ],
+    "max": [
+     450,
+     31.06,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-18-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 795796,
+     "gpuBytes": 17711807,
+     "triangles": 55612
+    },
+    {
+     "file": "synth-18-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 98324,
+     "gpuBytes": 1118095,
+     "triangles": 3600
+    },
+    {
+     "file": "synth-18-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3428,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-19-06",
+   "name": "synthetic 19,6",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     450,
+     0,
+     100
+    ],
+    "max": [
+     500,
+     28.42,
+     200
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-19-06.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 807996,
+     "gpuBytes": 17642655,
+     "triangles": 51520
+    },
+    {
+     "file": "synth-19-06.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 105024,
+     "gpuBytes": 1114567,
+     "triangles": 3422
+    },
+    {
+     "file": "synth-19-06.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3420,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-00-07",
+   "name": "synthetic 0,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -500,
+     0,
+     200
+    ],
+    "max": [
+     -450,
+     61.49,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-00-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 815024,
+     "gpuBytes": 17885399,
+     "triangles": 66734
+    },
+    {
+     "file": "synth-00-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 93776,
+     "gpuBytes": 1125119,
+     "triangles": 4134
+    },
+    {
+     "file": "synth-00-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2996,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-01-07",
+   "name": "synthetic 1,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -450,
+     0,
+     200
+    ],
+    "max": [
+     -400,
+     55.18,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-01-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 786868,
+     "gpuBytes": 17919651,
+     "triangles": 68346
+    },
+    {
+     "file": "synth-01-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 85572,
+     "gpuBytes": 1132563,
+     "triangles": 4438
+    },
+    {
+     "file": "synth-01-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3428,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-02-07",
+   "name": "synthetic 2,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -400,
+     0,
+     200
+    ],
+    "max": [
+     -350,
+     60.22,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-02-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 807344,
+     "gpuBytes": 17865067,
+     "triangles": 64722
+    },
+    {
+     "file": "synth-02-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 86756,
+     "gpuBytes": 1130195,
+     "triangles": 4230
+    },
+    {
+     "file": "synth-02-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3608,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-03-07",
+   "name": "synthetic 3,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -350,
+     0,
+     200
+    ],
+    "max": [
+     -300,
+     57.4,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-03-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 811428,
+     "gpuBytes": 17806779,
+     "triangles": 61714
+    },
+    {
+     "file": "synth-03-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 99076,
+     "gpuBytes": 1122395,
+     "triangles": 3920
+    },
+    {
+     "file": "synth-03-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3280,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-04-07",
+   "name": "synthetic 4,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -300,
+     0,
+     200
+    ],
+    "max": [
+     -250,
+     60.64,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-04-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 919900,
+     "gpuBytes": 18059747,
+     "triangles": 76612
+    },
+    {
+     "file": "synth-04-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 113724,
+     "gpuBytes": 1140855,
+     "triangles": 4840
+    },
+    {
+     "file": "synth-04-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3616,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-05-07",
+   "name": "synthetic 5,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -250,
+     0,
+     200
+    ],
+    "max": [
+     -200,
+     31.43,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-05-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 777404,
+     "gpuBytes": 17673815,
+     "triangles": 53570
+    },
+    {
+     "file": "synth-05-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 89556,
+     "gpuBytes": 1113307,
+     "triangles": 3392
+    },
+    {
+     "file": "synth-05-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3300,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-06-07",
+   "name": "synthetic 6,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -200,
+     0,
+     200
+    ],
+    "max": [
+     -150,
+     44.26,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-06-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 867304,
+     "gpuBytes": 17951655,
+     "triangles": 70260
+    },
+    {
+     "file": "synth-06-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 100440,
+     "gpuBytes": 1133803,
+     "triangles": 4498
+    },
+    {
+     "file": "synth-06-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3448,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-07-07",
+   "name": "synthetic 7,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -150,
+     0,
+     200
+    ],
+    "max": [
+     -100,
+     45.48,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-07-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 843852,
+     "gpuBytes": 17859551,
+     "triangles": 64736
+    },
+    {
+     "file": "synth-07-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 104916,
+     "gpuBytes": 1126347,
+     "triangles": 4092
+    },
+    {
+     "file": "synth-07-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3420,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-08-07",
+   "name": "synthetic 8,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -100,
+     0,
+     200
+    ],
+    "max": [
+     -50,
+     31.36,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-08-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 712448,
+     "gpuBytes": 17517119,
+     "triangles": 44144
+    },
+    {
+     "file": "synth-08-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 85844,
+     "gpuBytes": 1101639,
+     "triangles": 2764
+    },
+    {
+     "file": "synth-08-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3152,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-09-07",
+   "name": "synthetic 9,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -50,
+     0,
+     200
+    ],
+    "max": [
+     0,
+     51.95,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-09-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 753636,
+     "gpuBytes": 17781899,
+     "triangles": 59974
+    },
+    {
+     "file": "synth-09-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 82812,
+     "gpuBytes": 1123883,
+     "triangles": 3948
+    },
+    {
+     "file": "synth-09-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3424,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-10-07",
+   "name": "synthetic 10,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     0,
+     0,
+     200
+    ],
+    "max": [
+     50,
+     60.24,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-10-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 705104,
+     "gpuBytes": 17488015,
+     "triangles": 42440
+    },
+    {
+     "file": "synth-10-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 76524,
+     "gpuBytes": 1101179,
+     "triangles": 2764
+    },
+    {
+     "file": "synth-10-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2972,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-11-07",
+   "name": "synthetic 11,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     50,
+     0,
+     200
+    ],
+    "max": [
+     100,
+     62.32,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-11-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 805872,
+     "gpuBytes": 17754243,
+     "triangles": 58188
+    },
+    {
+     "file": "synth-11-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 99744,
+     "gpuBytes": 1120935,
+     "triangles": 3760
+    },
+    {
+     "file": "synth-11-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3432,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-12-07",
+   "name": "synthetic 12,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     100,
+     0,
+     200
+    ],
+    "max": [
+     150,
+     61.5,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-12-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 930212,
+     "gpuBytes": 18064507,
+     "triangles": 76862
+    },
+    {
+     "file": "synth-12-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 115608,
+     "gpuBytes": 1142615,
+     "triangles": 4930
+    },
+    {
+     "file": "synth-12-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3616,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-13-07",
+   "name": "synthetic 13,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     150,
+     0,
+     200
+    ],
+    "max": [
+     200,
+     63.77,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-13-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 816988,
+     "gpuBytes": 17819903,
+     "triangles": 62398
+    },
+    {
+     "file": "synth-13-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 93320,
+     "gpuBytes": 1123959,
+     "triangles": 3984
+    },
+    {
+     "file": "synth-13-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3312,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-14-07",
+   "name": "synthetic 14,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     200,
+     0,
+     200
+    ],
+    "max": [
+     250,
+     50.43,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-14-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 904960,
+     "gpuBytes": 18077487,
+     "triangles": 77762
+    },
+    {
+     "file": "synth-14-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 103544,
+     "gpuBytes": 1142159,
+     "triangles": 4924
+    },
+    {
+     "file": "synth-14-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3584,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-15-07",
+   "name": "synthetic 15,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     250,
+     0,
+     200
+    ],
+    "max": [
+     300,
+     53.51,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-15-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 868848,
+     "gpuBytes": 17945747,
+     "triangles": 69902
+    },
+    {
+     "file": "synth-15-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 107704,
+     "gpuBytes": 1134135,
+     "triangles": 4520
+    },
+    {
+     "file": "synth-15-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3428,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-16-07",
+   "name": "synthetic 16,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     300,
+     0,
+     200
+    ],
+    "max": [
+     350,
+     30.16,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-16-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 812352,
+     "gpuBytes": 17876003,
+     "triangles": 65698
+    },
+    {
+     "file": "synth-16-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 94308,
+     "gpuBytes": 1127939,
+     "triangles": 4174
+    },
+    {
+     "file": "synth-16-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3428,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-17-07",
+   "name": "synthetic 17,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     350,
+     0,
+     200
+    ],
+    "max": [
+     400,
+     45.81,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-17-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 814704,
+     "gpuBytes": 18042567,
+     "triangles": 75972
+    },
+    {
+     "file": "synth-17-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 87512,
+     "gpuBytes": 1138811,
+     "triangles": 4816
+    },
+    {
+     "file": "synth-17-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3448,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-18-07",
+   "name": "synthetic 18,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     400,
+     0,
+     200
+    ],
+    "max": [
+     450,
+     62.23,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-18-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 810424,
+     "gpuBytes": 17865135,
+     "triangles": 64930
+    },
+    {
+     "file": "synth-18-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 86244,
+     "gpuBytes": 1128011,
+     "triangles": 4156
+    },
+    {
+     "file": "synth-18-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3412,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-19-07",
+   "name": "synthetic 19,7",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     450,
+     0,
+     200
+    ],
+    "max": [
+     500,
+     51.1,
+     300
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-19-07.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 858056,
+     "gpuBytes": 17952439,
+     "triangles": 70304
+    },
+    {
+     "file": "synth-19-07.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 102880,
+     "gpuBytes": 1132099,
+     "triangles": 4394
+    },
+    {
+     "file": "synth-19-07.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3444,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-00-08",
+   "name": "synthetic 0,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -500,
+     0,
+     300
+    ],
+    "max": [
+     -450,
+     30.83,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-00-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 850424,
+     "gpuBytes": 17904887,
+     "triangles": 67482
+    },
+    {
+     "file": "synth-00-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 105528,
+     "gpuBytes": 1129267,
+     "triangles": 4252
+    },
+    {
+     "file": "synth-00-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3452,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-01-08",
+   "name": "synthetic 1,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -450,
+     0,
+     300
+    ],
+    "max": [
+     -400,
+     29.63,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-01-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 693644,
+     "gpuBytes": 17419231,
+     "triangles": 38296
+    },
+    {
+     "file": "synth-01-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 83044,
+     "gpuBytes": 1094187,
+     "triangles": 2372
+    },
+    {
+     "file": "synth-01-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2984,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-02-08",
+   "name": "synthetic 2,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -400,
+     0,
+     300
+    ],
+    "max": [
+     -350,
+     58.14,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-02-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 838340,
+     "gpuBytes": 18095427,
+     "triangles": 78892
+    },
+    {
+     "file": "synth-02-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 91360,
+     "gpuBytes": 1145579,
+     "triangles": 5134
+    },
+    {
+     "file": "synth-02-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3580,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-03-08",
+   "name": "synthetic 3,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -350,
+     0,
+     300
+    ],
+    "max": [
+     -300,
+     54.96,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-03-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 835428,
+     "gpuBytes": 17996187,
+     "triangles": 73382
+    },
+    {
+     "file": "synth-03-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 87424,
+     "gpuBytes": 1133639,
+     "triangles": 4594
+    },
+    {
+     "file": "synth-03-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3136,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-04-08",
+   "name": "synthetic 4,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -300,
+     0,
+     300
+    ],
+    "max": [
+     -250,
+     19.75,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-04-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 727300,
+     "gpuBytes": 17484019,
+     "triangles": 41884
+    },
+    {
+     "file": "synth-04-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 93256,
+     "gpuBytes": 1103623,
+     "triangles": 2808
+    },
+    {
+     "file": "synth-04-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3428,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-05-08",
+   "name": "synthetic 5,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -250,
+     0,
+     300
+    ],
+    "max": [
+     -200,
+     22.86,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-05-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 707296,
+     "gpuBytes": 17262203,
+     "triangles": 28758
+    },
+    {
+     "file": "synth-05-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 94444,
+     "gpuBytes": 1085703,
+     "triangles": 1898
+    },
+    {
+     "file": "synth-05-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2980,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-06-08",
+   "name": "synthetic 6,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -200,
+     0,
+     300
+    ],
+    "max": [
+     -150,
+     51.55,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-06-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 849560,
+     "gpuBytes": 17968239,
+     "triangles": 71724
+    },
+    {
+     "file": "synth-06-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 95568,
+     "gpuBytes": 1132991,
+     "triangles": 4566
+    },
+    {
+     "file": "synth-06-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3132,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-07-08",
+   "name": "synthetic 7,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -150,
+     0,
+     300
+    ],
+    "max": [
+     -100,
+     60.58,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-07-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 808552,
+     "gpuBytes": 17735535,
+     "triangles": 57380
+    },
+    {
+     "file": "synth-07-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 94432,
+     "gpuBytes": 1118567,
+     "triangles": 3712
+    },
+    {
+     "file": "synth-07-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3136,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-08-08",
+   "name": "synthetic 8,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -100,
+     0,
+     300
+    ],
+    "max": [
+     -50,
+     28.57,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-08-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 706116,
+     "gpuBytes": 17345127,
+     "triangles": 33832
+    },
+    {
+     "file": "synth-08-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 92024,
+     "gpuBytes": 1091795,
+     "triangles": 2250
+    },
+    {
+     "file": "synth-08-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2988,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-09-08",
+   "name": "synthetic 9,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -50,
+     0,
+     300
+    ],
+    "max": [
+     0,
+     61.05,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-09-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 770476,
+     "gpuBytes": 17702003,
+     "triangles": 55278
+    },
+    {
+     "file": "synth-09-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 90172,
+     "gpuBytes": 1116455,
+     "triangles": 3580
+    },
+    {
+     "file": "synth-09-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3136,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-10-08",
+   "name": "synthetic 10,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     0,
+     0,
+     300
+    ],
+    "max": [
+     50,
+     49.91,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-10-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 793484,
+     "gpuBytes": 17935979,
+     "triangles": 69424
+    },
+    {
+     "file": "synth-10-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 85312,
+     "gpuBytes": 1131387,
+     "triangles": 4382
+    },
+    {
+     "file": "synth-10-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3424,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-11-08",
+   "name": "synthetic 11,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     50,
+     0,
+     300
+    ],
+    "max": [
+     100,
+     56.59,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-11-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 769344,
+     "gpuBytes": 17718299,
+     "triangles": 56044
+    },
+    {
+     "file": "synth-11-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 82884,
+     "gpuBytes": 1120135,
+     "triangles": 3720
+    },
+    {
+     "file": "synth-11-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3404,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-12-08",
+   "name": "synthetic 12,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     100,
+     0,
+     300
+    ],
+    "max": [
+     150,
+     30.15,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-12-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 754732,
+     "gpuBytes": 17606055,
+     "triangles": 49590
+    },
+    {
+     "file": "synth-12-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 95740,
+     "gpuBytes": 1110927,
+     "triangles": 3302
+    },
+    {
+     "file": "synth-12-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3140,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-13-08",
+   "name": "synthetic 13,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     150,
+     0,
+     300
+    ],
+    "max": [
+     200,
+     40.03,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-13-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 846688,
+     "gpuBytes": 17793847,
+     "triangles": 60882
+    },
+    {
+     "file": "synth-13-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 107512,
+     "gpuBytes": 1122003,
+     "triangles": 3888
+    },
+    {
+     "file": "synth-13-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3312,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-14-08",
+   "name": "synthetic 14,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     200,
+     0,
+     300
+    ],
+    "max": [
+     250,
+     49.73,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-14-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 799992,
+     "gpuBytes": 17768835,
+     "triangles": 59440
+    },
+    {
+     "file": "synth-14-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 92308,
+     "gpuBytes": 1120391,
+     "triangles": 3816
+    },
+    {
+     "file": "synth-14-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3300,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-15-08",
+   "name": "synthetic 15,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     250,
+     0,
+     300
+    ],
+    "max": [
+     300,
+     60.25,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-15-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 880684,
+     "gpuBytes": 17996343,
+     "triangles": 73168
+    },
+    {
+     "file": "synth-15-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 101688,
+     "gpuBytes": 1137759,
+     "triangles": 4774
+    },
+    {
+     "file": "synth-15-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3288,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-16-08",
+   "name": "synthetic 16,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     300,
+     0,
+     300
+    ],
+    "max": [
+     350,
+     50.17,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-16-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 760788,
+     "gpuBytes": 17554679,
+     "triangles": 46594
+    },
+    {
+     "file": "synth-16-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 96856,
+     "gpuBytes": 1105735,
+     "triangles": 3040
+    },
+    {
+     "file": "synth-16-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2996,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-17-08",
+   "name": "synthetic 17,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     350,
+     0,
+     300
+    ],
+    "max": [
+     400,
+     30.6,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-17-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 714724,
+     "gpuBytes": 17508927,
+     "triangles": 43692
+    },
+    {
+     "file": "synth-17-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 85732,
+     "gpuBytes": 1102275,
+     "triangles": 2810
+    },
+    {
+     "file": "synth-17-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3144,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-18-08",
+   "name": "synthetic 18,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     400,
+     0,
+     300
+    ],
+    "max": [
+     450,
+     41.45,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-18-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 723944,
+     "gpuBytes": 17678659,
+     "triangles": 53944
+    },
+    {
+     "file": "synth-18-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 78416,
+     "gpuBytes": 1112115,
+     "triangles": 3350
+    },
+    {
+     "file": "synth-18-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3148,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-19-08",
+   "name": "synthetic 19,8",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     450,
+     0,
+     300
+    ],
+    "max": [
+     500,
+     60.54,
+     400
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-19-08.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 792728,
+     "gpuBytes": 17860559,
+     "triangles": 64754
+    },
+    {
+     "file": "synth-19-08.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 85768,
+     "gpuBytes": 1127459,
+     "triangles": 4144
+    },
+    {
+     "file": "synth-19-08.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3444,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-00-09",
+   "name": "synthetic 0,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -500,
+     0,
+     400
+    ],
+    "max": [
+     -450,
+     28.64,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-00-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 816648,
+     "gpuBytes": 17767579,
+     "triangles": 59084
+    },
+    {
+     "file": "synth-00-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 95772,
+     "gpuBytes": 1120939,
+     "triangles": 3774
+    },
+    {
+     "file": "synth-00-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3440,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-01-09",
+   "name": "synthetic 1,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -450,
+     0,
+     400
+    ],
+    "max": [
+     -400,
+     47.54,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-01-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 763960,
+     "gpuBytes": 17533531,
+     "triangles": 45026
+    },
+    {
+     "file": "synth-01-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 97524,
+     "gpuBytes": 1104899,
+     "triangles": 2924
+    },
+    {
+     "file": "synth-01-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3136,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-02-09",
+   "name": "synthetic 2,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -400,
+     0,
+     400
+    ],
+    "max": [
+     -350,
+     30.88,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-02-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 866060,
+     "gpuBytes": 18062403,
+     "triangles": 76918
+    },
+    {
+     "file": "synth-02-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 100380,
+     "gpuBytes": 1142295,
+     "triangles": 4950
+    },
+    {
+     "file": "synth-02-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3608,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-03-09",
+   "name": "synthetic 3,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -350,
+     0,
+     400
+    ],
+    "max": [
+     -300,
+     28.53,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-03-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 719508,
+     "gpuBytes": 17649715,
+     "triangles": 51880
+    },
+    {
+     "file": "synth-03-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 80060,
+     "gpuBytes": 1114743,
+     "triangles": 3418
+    },
+    {
+     "file": "synth-03-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3456,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-04-09",
+   "name": "synthetic 4,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -300,
+     0,
+     400
+    ],
+    "max": [
+     -250,
+     56.22,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-04-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 827884,
+     "gpuBytes": 17977823,
+     "triangles": 72158
+    },
+    {
+     "file": "synth-04-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 87080,
+     "gpuBytes": 1135983,
+     "triangles": 4698
+    },
+    {
+     "file": "synth-04-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3292,
+     "gpuBytes": 2520,
+     "triangles": 70
+    }
+   ]
+  },
+  {
+   "id": "synth-05-09",
+   "name": "synthetic 5,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -250,
+     0,
+     400
+    ],
+    "max": [
+     -200,
+     58.88,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-05-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 874028,
+     "gpuBytes": 18048259,
+     "triangles": 76314
+    },
+    {
+     "file": "synth-05-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 105072,
+     "gpuBytes": 1139807,
+     "triangles": 4872
+    },
+    {
+     "file": "synth-05-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3416,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-06-09",
+   "name": "synthetic 6,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -200,
+     0,
+     400
+    ],
+    "max": [
+     -150,
+     54.28,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-06-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 821544,
+     "gpuBytes": 17696043,
+     "triangles": 55178
+    },
+    {
+     "file": "synth-06-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 103968,
+     "gpuBytes": 1115219,
+     "triangles": 3574
+    },
+    {
+     "file": "synth-06-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2984,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-07-09",
+   "name": "synthetic 7,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -150,
+     0,
+     400
+    ],
+    "max": [
+     -100,
+     62.8,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-07-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 769024,
+     "gpuBytes": 17668163,
+     "triangles": 53428
+    },
+    {
+     "file": "synth-07-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 89116,
+     "gpuBytes": 1111431,
+     "triangles": 3336
+    },
+    {
+     "file": "synth-07-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3120,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-08-09",
+   "name": "synthetic 8,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -100,
+     0,
+     400
+    ],
+    "max": [
+     -50,
+     64.7,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-08-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 940788,
+     "gpuBytes": 18211803,
+     "triangles": 85828
+    },
+    {
+     "file": "synth-08-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 106848,
+     "gpuBytes": 1153647,
+     "triangles": 5562
+    },
+    {
+     "file": "synth-08-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3596,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-09-09",
+   "name": "synthetic 9,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     -50,
+     0,
+     400
+    ],
+    "max": [
+     0,
+     28.49,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-09-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 752964,
+     "gpuBytes": 17515707,
+     "triangles": 44032
+    },
+    {
+     "file": "synth-09-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 96924,
+     "gpuBytes": 1102515,
+     "triangles": 2810
+    },
+    {
+     "file": "synth-09-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3140,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-10-09",
+   "name": "synthetic 10,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     0,
+     0,
+     400
+    ],
+    "max": [
+     50,
+     43.04,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-10-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 783640,
+     "gpuBytes": 17754015,
+     "triangles": 58260
+    },
+    {
+     "file": "synth-10-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 92532,
+     "gpuBytes": 1121227,
+     "triangles": 3792
+    },
+    {
+     "file": "synth-10-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3448,
+     "gpuBytes": 2880,
+     "triangles": 80
+    }
+   ]
+  },
+  {
+   "id": "synth-11-09",
+   "name": "synthetic 11,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     50,
+     0,
+     400
+    ],
+    "max": [
+     100,
+     44.86,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-11-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 768184,
+     "gpuBytes": 17827527,
+     "triangles": 62542
+    },
+    {
+     "file": "synth-11-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 84500,
+     "gpuBytes": 1127187,
+     "triangles": 4082
+    },
+    {
+     "file": "synth-11-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3584,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-12-09",
+   "name": "synthetic 12,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     100,
+     0,
+     400
+    ],
+    "max": [
+     150,
+     59.5,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-12-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 803088,
+     "gpuBytes": 17875147,
+     "triangles": 66022
+    },
+    {
+     "file": "synth-12-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 84060,
+     "gpuBytes": 1126067,
+     "triangles": 4172
+    },
+    {
+     "file": "synth-12-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3132,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-13-09",
+   "name": "synthetic 13,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     150,
+     0,
+     400
+    ],
+    "max": [
+     200,
+     30.42,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-13-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 702856,
+     "gpuBytes": 17398499,
+     "triangles": 37084
+    },
+    {
+     "file": "synth-13-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 89140,
+     "gpuBytes": 1094147,
+     "triangles": 2382
+    },
+    {
+     "file": "synth-13-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2992,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-14-09",
+   "name": "synthetic 14,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     200,
+     0,
+     400
+    ],
+    "max": [
+     250,
+     45.28,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-14-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 888824,
+     "gpuBytes": 17930431,
+     "triangles": 68926
+    },
+    {
+     "file": "synth-14-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 111672,
+     "gpuBytes": 1133459,
+     "triangles": 4464
+    },
+    {
+     "file": "synth-14-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3588,
+     "gpuBytes": 3240,
+     "triangles": 90
+    }
+   ]
+  },
+  {
+   "id": "synth-15-09",
+   "name": "synthetic 15,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     250,
+     0,
+     400
+    ],
+    "max": [
+     300,
+     60.3,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-15-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 774412,
+     "gpuBytes": 17683779,
+     "triangles": 54534
+    },
+    {
+     "file": "synth-15-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 88496,
+     "gpuBytes": 1111363,
+     "triangles": 3368
+    },
+    {
+     "file": "synth-15-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2984,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-16-09",
+   "name": "synthetic 16,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     300,
+     0,
+     400
+    ],
+    "max": [
+     350,
+     19.15,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-16-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 681920,
+     "gpuBytes": 17278735,
+     "triangles": 29820
+    },
+    {
+     "file": "synth-16-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 83268,
+     "gpuBytes": 1086615,
+     "triangles": 1960
+    },
+    {
+     "file": "synth-16-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 2988,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  },
+  {
+   "id": "synth-17-09",
+   "name": "synthetic 17,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     350,
+     0,
+     400
+    ],
+    "max": [
+     400,
+     30.63,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-17-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 749956,
+     "gpuBytes": 17502563,
+     "triangles": 43248
+    },
+    {
+     "file": "synth-17-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 96800,
+     "gpuBytes": 1103759,
+     "triangles": 2884
+    },
+    {
+     "file": "synth-17-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3112,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-18-09",
+   "name": "synthetic 18,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     400,
+     0,
+     400
+    ],
+    "max": [
+     450,
+     31.9,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-18-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 712756,
+     "gpuBytes": 17494071,
+     "triangles": 42756
+    },
+    {
+     "file": "synth-18-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 84956,
+     "gpuBytes": 1100879,
+     "triangles": 2724
+    },
+    {
+     "file": "synth-18-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3124,
+     "gpuBytes": 2160,
+     "triangles": 60
+    }
+   ]
+  },
+  {
+   "id": "synth-19-09",
+   "name": "synthetic 19,9",
+   "level": "L0",
+   "bounds": {
+    "min": [
+     450,
+     0,
+     400
+    ],
+    "max": [
+     500,
+     45.38,
+     500
+    ]
+   },
+   "lods": [
+    {
+     "file": "synth-19-09.lod0.glb",
+     "maxDistM": 150,
+     "bytes": 683684,
+     "gpuBytes": 17512463,
+     "triangles": 43958
+    },
+    {
+     "file": "synth-19-09.lod1.glb",
+     "maxDistM": 450,
+     "bytes": 75580,
+     "gpuBytes": 1103455,
+     "triangles": 2900
+    },
+    {
+     "file": "synth-19-09.lod2.glb",
+     "maxDistM": 1500,
+     "bytes": 3000,
+     "gpuBytes": 1800,
+     "triangles": 50
+    }
+   ]
+  }
+ ]
+}

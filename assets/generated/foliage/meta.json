@@ -1,0 +1,21 @@
+{
+  "id": "foliage",
+  "name": "Foliage atlas (procedural, ours)",
+  "authors": [
+    "universal-orlando-3d (tools/geo/trees_lib.py)"
+  ],
+  "license": "ours",
+  "source": "tools/geo/trees_lib.py",
+  "type": "texture",
+  "res": "2048x1024",
+  "main": "foliage.glb",
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "use": "leaf cards of every tree (2.4a)",
+  "alphaMode": "MASK",
+  "bytes": 738776,
+  "lo": "foliage-lo.glb",
+  "loBytes": 97612
+}

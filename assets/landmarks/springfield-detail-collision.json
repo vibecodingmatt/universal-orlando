@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"springfield-detail","kind":"zone","file":"springfield-detail-collision.bvhz","encoding":"gzip","bytes":4170,"decodedBytes":8080,"bounds":{"min":[94.63,-0.87,-190.58],"max":[129.78,2.99,-120.49]},"triangles":340,"vertices":224}]}

@@ -1,0 +1,20 @@
+{
+  "id": "roof_slates_03",
+  "name": "Roof Slates 03",
+  "authors": [
+    "Rob Tuytel"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/roof_slates_03",
+  "type": "texture",
+  "res": "2k",
+  "main": "roof_slates_03.glb",
+  "use": "shingle roofs, painted the roof colour (library `roof-shingle`)",
+  "dimensions_mm": [
+    3000,
+    3000
+  ],
+  "bytes": 9960464,
+  "lo": "roof_slates_03-lo.glb",
+  "loBytes": 696456
+}

@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"path-furniture","kind":"zone","file":"furniture.bvhz","encoding":"gzip","bytes":42728,"decodedBytes":92448,"bounds":{"min":[-41.67,-1.26,-292.73],"max":[424.67,8.41,575.06]},"triangles":2268,"vertices":4536}]}

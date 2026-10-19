@@ -1,0 +1,20 @@
+{
+  "id": "stone_block_wall",
+  "name": "Stone Block Wall",
+  "authors": [
+    "Amal Kumar"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/stone_block_wall",
+  "type": "texture",
+  "res": "2k",
+  "main": "stone_block_wall.glb",
+  "use": "brownstone (library `brownstone`)",
+  "dimensions_mm": [
+    2099.9999046325684,
+    2099.9999046325684
+  ],
+  "bytes": 9845516,
+  "lo": "stone_block_wall-lo.glb",
+  "loBytes": 660056
+}

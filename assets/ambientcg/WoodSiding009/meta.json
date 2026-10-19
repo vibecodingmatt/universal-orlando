@@ -1,0 +1,20 @@
+{
+  "id": "WoodSiding009",
+  "name": "Wood Siding 009",
+  "authors": [
+    "ambientCG (Lennart Demes)"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/view?id=WoodSiding009",
+  "type": "texture",
+  "res": "2K",
+  "main": "WoodSiding009.glb",
+  "dimensions_mm": [
+    2560,
+    1280
+  ],
+  "use": "painted lap wood siding (library `wood-siding`)",
+  "bytes": 4651220,
+  "lo": "WoodSiding009-lo.glb",
+  "loBytes": 303092
+}

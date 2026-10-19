@@ -1,0 +1,75 @@
+{
+  "version": 2,
+  "hdri": "kloofendal_43d_clear_puresky",
+  "source": {
+    "width": 4096,
+    "height": 2048
+  },
+  "sky": {
+    "file": "sky.ktx2",
+    "format": "BC6H_UFLOAT_BLOCK",
+    "flipY": "stored bottom row first",
+    "width": 4096,
+    "height": 2048
+  },
+  "skyLo": {
+    "file": "sky-lo.ktx2",
+    "format": "BC6H_UFLOAT_BLOCK",
+    "width": 1024,
+    "height": 512
+  },
+  "env": {
+    "file": "env.ktx2",
+    "format": "R16G16B16A16_SFLOAT",
+    "width": 1024,
+    "height": 512
+  },
+  "sunTexDir": [
+    0.5911405695998363,
+    0.6810714000862091,
+    0.432081676257848
+  ],
+  "sunColor": [
+    1.0541553436554214,
+    0.9930196617687146,
+    0.9096802194165209
+  ],
+  "sunIrradiance": 6.17768784801695,
+  "skyIrradiance": 1.2677149148630642,
+  "skyIrradianceRgb": [
+    0.9658010787975203,
+    1.2958021762822154,
+    1.8785026181815971
+  ],
+  "clampAt": 8.797910679536157,
+  "peak": 115313.03447656249,
+  "horizon": {
+    "base": [
+      0.23353771150787347,
+      0.3019533504381933,
+      0.4110547826648159
+    ],
+    "lobe": [
+      4.798625874765119,
+      4.542148394623897,
+      4.095235051324503
+    ],
+    "g": 0.95,
+    "rms": 0.1177230601760663
+  },
+  "bc6h": {
+    "rmsHalfBits": 5.194,
+    "worstHalfBits": 389,
+    "modes": {
+      "mode11": 0.007,
+      "mode12": 0.065,
+      "mode13": 0.926,
+      "mode14": 0.002
+    }
+  },
+  "bakeMs": {
+    "parse": 324,
+    "split": 168,
+    "encode": 15104
+  }
+}

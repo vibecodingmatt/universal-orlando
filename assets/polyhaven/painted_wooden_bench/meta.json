@@ -1,0 +1,14 @@
+{
+  "id": "painted_wooden_bench",
+  "name": "Painted Wooden Bench",
+  "authors": [
+    "Kirill Sannikov"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/painted_wooden_bench",
+  "type": "model",
+  "res": "2k",
+  "main": "painted_wooden_bench.glb",
+  "use": "`?scene=lookdev` prop (0.4 pipeline test)",
+  "bytes": 9286632
+}

@@ -1,0 +1,14 @@
+{
+  "id": "CoffeeCart_01",
+  "name": "Coffee Cart 01",
+  "authors": [
+    "Joe Seabuhr"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/CoffeeCart_01",
+  "type": "model",
+  "res": "2k",
+  "main": "CoffeeCart_01.glb",
+  "use": "`?scene=lookdev` prop",
+  "bytes": 14489060
+}

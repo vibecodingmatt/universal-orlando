@@ -1,0 +1,20 @@
+{
+  "id": "checkered_pavement_tiles",
+  "name": "Checkered Pavement Tiles",
+  "authors": [
+    "Amal Kumar"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/checkered_pavement_tiles",
+  "type": "texture",
+  "res": "1k",
+  "main": "checkered_pavement_tiles.glb",
+  "use": "patterned plaza paving (library `plaza-checker`)",
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "bytes": 1823436,
+  "lo": "checkered_pavement_tiles-lo.glb",
+  "loBytes": 123216
+}

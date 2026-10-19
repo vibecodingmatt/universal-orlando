@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"hogsmeade-station","kind":"zone","file":"hogsmeade-station-collision.bvhz","encoding":"gzip","bytes":3098,"decodedBytes":6168,"bounds":{"min":[-378.83,0.59,375.7],"max":[-297.44,17.61,454.05]},"triangles":252,"vertices":168}]}
