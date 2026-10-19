@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"lagoon-showpieces","kind":"zone","file":"lagoon-showpieces-collision.bvhz","encoding":"gzip","bytes":9745,"decodedBytes":19800,"bounds":{"min":[78.38,-1.65,-68.97],"max":[133.41,8.11,73.43]},"triangles":828,"vertices":552}]}

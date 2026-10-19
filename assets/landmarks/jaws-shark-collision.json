@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"jaws-shark-posts","kind":"zone","file":"jaws-shark-collision.bvhz","encoding":"gzip","bytes":471,"decodedBytes":792,"bounds":{"min":[21.57,-0.31,-74.93],"max":[26.43,3.21,-74.27]},"triangles":24,"vertices":16}]}

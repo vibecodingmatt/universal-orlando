@@ -1,0 +1,21 @@
+{
+  "id": "beige_wall_001",
+  "name": "Beige Wall 001",
+  "authors": [
+    "Dimitrios Savva",
+    "Rico Cilliers"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/beige_wall_001",
+  "type": "texture",
+  "res": "2k",
+  "main": "beige_wall_001.glb",
+  "use": "stucco walls (library `stucco`)",
+  "dimensions_mm": [
+    3000,
+    3000.000238418579
+  ],
+  "bytes": 8443128,
+  "lo": "beige_wall_001-lo.glb",
+  "loBytes": 540380
+}

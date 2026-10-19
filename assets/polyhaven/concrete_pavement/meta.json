@@ -1,0 +1,20 @@
+{
+  "id": "concrete_pavement",
+  "name": "Concrete Pavement",
+  "authors": [
+    "Charlotte Baglioni"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/concrete_pavement",
+  "type": "texture",
+  "res": "1k",
+  "main": "concrete_pavement.glb",
+  "use": "`?scene=lookdev` paving (0.4 pipeline test); walkway paving (library `walk`, 2.2a)",
+  "dimensions_mm": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "bytes": 2552632,
+  "lo": "concrete_pavement-lo.glb",
+  "loBytes": 169664
+}

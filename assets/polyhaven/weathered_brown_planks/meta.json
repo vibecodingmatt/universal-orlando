@@ -1,0 +1,21 @@
+{
+  "id": "weathered_brown_planks",
+  "name": "Weathered Brown Planks",
+  "authors": [
+    "Dimitrios Savva",
+    "Rico Cilliers"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/weathered_brown_planks",
+  "type": "texture",
+  "res": "1k",
+  "main": "weathered_brown_planks.glb",
+  "use": "wood: water tanks, doors, trim (library `wood-planks`)",
+  "dimensions_mm": [
+    1799.9999523162842,
+    1799.9999523162842
+  ],
+  "bytes": 2408096,
+  "lo": "weathered_brown_planks-lo.glb",
+  "loBytes": 168852
+}

@@ -1,0 +1,21 @@
+{
+  "id": "utility-decals",
+  "name": "Original generic utility and pavement atlas",
+  "authors": [
+    "universal-orlando-3d"
+  ],
+  "license": "ours",
+  "source": "tools/geo/utility_decals.py",
+  "type": "texture",
+  "res": "2048x1024",
+  "main": "utility-decals.glb",
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "alphaMode": "BLEND",
+  "use": "Generic estimated pavement details, 2.2b-4a",
+  "bytes": 878336,
+  "lo": "utility-decals-lo.glb",
+  "loBytes": 89304
+}

@@ -1,0 +1,20 @@
+{
+  "id": "bitumen",
+  "name": "Bitumen",
+  "authors": [
+    "Rob Tuytel"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/bitumen",
+  "type": "texture",
+  "res": "2k",
+  "main": "bitumen.glb",
+  "use": "flat membrane roofs (library `roof-membrane`)",
+  "dimensions_mm": [
+    19999.996185302734,
+    19999.996185302734
+  ],
+  "bytes": 8110228,
+  "lo": "bitumen-lo.glb",
+  "loBytes": 524960
+}

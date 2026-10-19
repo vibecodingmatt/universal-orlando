@@ -1,0 +1,20 @@
+{
+  "id": "red_brick_03",
+  "name": "Red Brick 03",
+  "authors": [
+    "Rob Tuytel"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/red_brick_03",
+  "type": "texture",
+  "res": "1k",
+  "main": "red_brick_03.glb",
+  "use": "facade brick (library `brick-red`)",
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "bytes": 2674456,
+  "lo": "red_brick_03-lo.glb",
+  "loBytes": 183224
+}
