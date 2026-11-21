@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"dreamworks-nbc-monolith","kind":"zone","file":"dreamworks-nbc-collision.bvhz","encoding":"gzip","bytes":364,"decodedBytes":496,"bounds":{"min":[146.27,0.03,17.43],"max":[147.83,2.84,18.66]},"triangles":12,"vertices":8}]}

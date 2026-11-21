@@ -1,0 +1,20 @@
+{
+  "id": "brick_wall_10",
+  "name": "Brick Wall 10",
+  "authors": [
+    "Dimitrios Savva"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/brick_wall_10",
+  "type": "texture",
+  "res": "1k",
+  "main": "brick_wall_10.glb",
+  "use": "facade brick (library `brick-brown`)",
+  "dimensions_mm": [
+    1899.9998569488525,
+    1899.9998569488525
+  ],
+  "bytes": 2468948,
+  "lo": "brick_wall_10-lo.glb",
+  "loBytes": 168732
+}

@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"lard-lad-solids","kind":"zone","file":"lard-lad-collision.bvhz","encoding":"gzip","bytes":993,"decodedBytes":1824,"bounds":{"min":[98.49,-0.58,-103.04],"max":[108.48,3.24,-78.22]},"triangles":76,"vertices":44}]}

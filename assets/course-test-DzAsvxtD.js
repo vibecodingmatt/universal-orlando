@@ -1,0 +1,1 @@
+export{r as runCourseTest}from"./course-test-DesTG2SA.js";
