@@ -1,0 +1,15 @@
+{
+  "id": "concrete_cat_statue",
+  "name": "Concrete Cat Statue",
+  "authors": [
+    "Rico Cilliers",
+    "Riley Queen"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/concrete_cat_statue",
+  "type": "model",
+  "res": "2k",
+  "main": "concrete_cat_statue.glb",
+  "use": "`?scene=lookdev` prop",
+  "bytes": 9723064
+}

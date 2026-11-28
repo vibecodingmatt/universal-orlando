@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"expo-detail","kind":"zone","file":"expo-detail-collision.bvhz","encoding":"gzip","bytes":866,"decodedBytes":1536,"bounds":{"min":[84.74,-0.31,-292.61],"max":[113.61,6.02,-217.07]},"triangles":52,"vertices":32}]}

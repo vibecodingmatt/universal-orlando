@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"eros-fountain","kind":"zone","file":"eros-fountain-collision.bvhz","encoding":"gzip","bytes":4234,"decodedBytes":9848,"bounds":{"min":[7.57,0.27,-194.54],"max":[17.44,4.08,-184.67]},"triangles":412,"vertices":272}]}

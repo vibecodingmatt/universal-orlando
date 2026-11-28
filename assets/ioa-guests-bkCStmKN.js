@@ -1,0 +1,1 @@
+var e=(()=>{try{return new URLSearchParams(location.search).get(`ioaGuests`)}catch{return null}})()===`on`,t=e=>e.startsWith(`ioa-`),n=n=>!e&&t(n);export{n,e as t};

@@ -1,0 +1,1 @@
+function e(e=6,t=!0){let n=t?-1/0:performance.now();return()=>{if(!(performance.now()-n<e))return new Promise(e=>{setTimeout(()=>{n=performance.now(),e()},0)})}}export{e as t};

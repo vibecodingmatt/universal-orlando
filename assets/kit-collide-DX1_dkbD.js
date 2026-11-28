@@ -1,0 +1,1 @@
+import{d as e,u as t}from"./three.core-CXcLMkf2.js";function n(n){let r=n.geometry.getAttribute(`position`),i=new Float32Array(r.count*3);for(let e=0;e<r.count;e++)i[3*e]=r.getX(e),i[3*e+1]=r.getY(e),i[3*e+2]=r.getZ(e);let a=new e().setAttribute(`position`,new t(i,3));return n.geometry.index&&a.setIndex(n.geometry.index.clone()),a.applyMatrix4(n.matrixWorld)}export{n as t};

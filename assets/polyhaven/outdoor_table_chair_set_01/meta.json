@@ -1,0 +1,14 @@
+{
+  "id": "outdoor_table_chair_set_01",
+  "name": "Outdoor Table Chair Set 01",
+  "authors": [
+    "James Ray Cock"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/outdoor_table_chair_set_01",
+  "type": "model",
+  "res": "2k",
+  "main": "outdoor_table_chair_set_01.glb",
+  "use": "`?scene=lookdev` prop",
+  "bytes": 13743888
+}

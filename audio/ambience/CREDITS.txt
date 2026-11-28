@@ -1,0 +1,290 @@
+Sound effects and ambiences in this park (ROADMAP 4.1d, 7.10b, 7.10e). Every clip, its author, its license and where it came from.
+CC BY clips are used under Creative Commons Attribution (the version on each source page); CC0 and public-domain clips need no credit and are listed for thanks.
+
+== CC BY ==
+tx-talk-passersby: "people traffic left right Stationsweg s-Hertogenbosch 1149 am 250918_0032" by klankbeeld. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/klankbeeld/sounds/827245/
+tx-convention-break: "small group walla.flac" by tim.kahn. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/tim.kahn/sounds/30046/
+tx-coaster-pass-c: "02-Bakken_Rollercoaster.wav" by JorgenJak. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). https://freesound.org/people/JorgenJak/sounds/159466/
+tx-coaster-screams: "Roller Coaster Screams, A.wav" by InspectorJ. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/InspectorJ/sounds/399376/
+tx-brakes-coaster-air: "Air_Brakes_Rollercoaster(Stereo).wav" by kMoon. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). https://freesound.org/people/kMoon/sounds/90781/
+tx-brakes-train-stop: "Train stopping" by VlatkoBlazek. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/VlatkoBlazek/sounds/322887/
+tx-air-train: "Air Releasing From Train  .wav" by Motion_S. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/Motion_S/sounds/178900/
+tx-utility-hauler: "Kawasaki_Farm_Hauler 01.wav" by n_audioman. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/n_audioman/sounds/321853/
+tx-quay-rocks: "waves lapping against rocks.aif" by sofajoe. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). https://freesound.org/people/sofajoe/sounds/73376/
+tx-quay-harbour: "harbour ambiance 1311 220802_0472.wav" by klankbeeld. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/klankbeeld/sounds/653016/
+tx-quay-old-harbour: "old harbour ambiance NL 150920_0781.wav" by klankbeeld. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/klankbeeld/sounds/324251/
+tx-quay-lapping: "Lapping Waves.wav" by Benboncan. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/Benboncan/sounds/82058/
+tx-hull-knock: "Wooden banging noise on water - good ship or docks sound" by OBXJohn. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/OBXJohn/sounds/636201/
+tx-hull-creak: "boat 06 220801_0469 marina Lage Zwaluwe" by klankbeeld. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/klankbeeld/sounds/849373/
+tx-rigging-sailboats: "SailboatsOnTheBeach.mp3" by pcaeldries. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/pcaeldries/sounds/36045/
+tx-rigging-windy-marina: "R4_00193_FR_WindyMarina.wav" by kevp888. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/kevp888/sounds/573777/
+tx-rigging-halesite: "Halesite Marina.wav" by chris5s. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/chris5s/sounds/478112/
+tx-mooring-ropes: "251027_162950_FR_Squeaking_mooring_ropes" by kevp888. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/kevp888/sounds/844412/
+tx-bell-clock-striking: "church_clock_striking.wav" by reinsamba. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/reinsamba/sounds/38010/
+tx-bell-church-noon: "church-bell 12pm autumn 161005_1007.wav" by klankbeeld. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/klankbeeld/sounds/362742/
+tx-bell-church: "church bell" by Yoram. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). https://freesound.org/people/Yoram/sounds/172550/
+tx-piazza-lucca: "Piazza Anfiteatro Lucca" by ruidoblanc0. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/ruidoblanc0/sounds/437125/
+tx-piazza-milan: "Youthful Crowd - Piazza del Duomo Milan" by RTB45. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/RTB45/sounds/459338/
+tx-park-citywalk-night: "Universal's CityWalk at Night (Orlando, FL)  - NON COPYRIGHT VIDEOS / CREATIVE COMMONS - Night Clubs" by The Adventure Schmuck. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). https://www.youtube.com/watch?v=76tRRCKTMXY
+tx-park-watertaxi-onboard: "4K Universal Water Taxi from City Walk to Sapphire Falls" by Pelican Pod Travel Vlog. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). https://www.youtube.com/watch?v=CNsY1hK_u-o
+steps-cobble: "Askeleet kadulla, mukulakivet / Footsteps, sedate, a man walking on cobblestones, a close sound" by YleArkisto. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). https://freesound.org/people/YleArkisto/sounds/322565/
+
+== CC0 ==
+crowd-murmur: "crowd medium ext active park outside museum" by kyles. CC0 1.0. https://freesound.org/people/kyles/sounds/629887/
+crowd-busy: "liseberg amusement park chatter 20170613" by gis_sweden. CC0 1.0. https://freesound.org/people/gis_sweden/sounds/396439/
+crowd-kids: "Griffith Observatory, school crowd" by stomachache. CC0 1.0. https://freesound.org/people/stomachache/sounds/172593/
+fountain: "Fuente de agua plaza de la Catedral de Santa Maria de Huesca" by Juan.Solo. CC0 1.0. https://freesound.org/people/Juan.Solo/sounds/461066/
+shore: "LightSurfLakeErie2" by lukiacostello. CC0 1.0. https://freesound.org/people/lukiacostello/sounds/432553/
+crowd-plaza-lively: by CHallSmith. CC0 1.0. https://freesound.org/people/CHallSmith/sounds/870619/
+crowd-square: by blaukreuz. CC0 1.0. https://freesound.org/people/blaukreuz/sounds/252709/
+crowd-street-passing: "Passing crowd in Latin Quarter of Paris" by Mxsmanic. CC0 1.0. https://freesound.org/people/Mxsmanic/sounds/139980/
+crowd-mall: by Blahoslav. CC0 1.0. https://freesound.org/people/Blahoslav/sounds/316781/
+crowd-foyer: "Crowd talking / murmur" by trezz77. CC0 1.0. https://freesound.org/people/trezz77/sounds/546676/
+crowd-terrace: by tferrino. CC0 1.0. https://freesound.org/people/tferrino/sounds/640630/
+crowd-terrace-lunch: by tribord. CC0 1.0. https://freesound.org/people/tribord/sounds/320026/
+crowd-park-calm: by kyles. CC0 1.0. https://freesound.org/people/kyles/sounds/455697/
+crowd-distant-kids: by myserval. CC0 1.0. https://freesound.org/people/myserval/sounds/274988/
+crowd-fair: by kyles. CC0 1.0. https://freesound.org/people/kyles/sounds/455687/
+crowd-funfair: by barkenov. CC0 1.0. https://freesound.org/people/barkenov/sounds/406825/
+crowd-walla: by xkeril. CC0 1.0. https://freesound.org/people/xkeril/sounds/741283/
+kids-playground: by Mxsmanic. CC0 1.0. https://freesound.org/people/Mxsmanic/sounds/162318/
+kids-playground-b: by felix.blume. CC0 1.0. https://freesound.org/people/felix.blume/sounds/238549/
+birds-florida-a: "Birds -songbirds-morning dove - woodpecker- St Augustine.wav" by Bansemer. CC0 1.0. https://freesound.org/people/Bansemer/sounds/118464/
+birds-florida-c: by Bansemer. CC0 1.0. https://freesound.org/people/Bansemer/sounds/180528/
+birds-orlando: "Florida Neighborhood Birds" by AnthonyChan0. CC0 1.0. https://freesound.org/people/AnthonyChan0/sounds/635818/
+crickets: "Crickets At Night - Raw sound" by Defelozedd94. CC0 1.0. https://freesound.org/people/Defelozedd94/sounds/522299/
+katydids: "SummerNightInsectsJuly182013.mp3" by kvgarlic. CC0 1.0. https://freesound.org/people/kvgarlic/sounds/196172/
+cicadas: by harryScary. CC0 1.0. https://freesound.org/people/harryScary/sounds/268964/
+frogs-florida: "Frogs in Alliagtor Creek at 4am.mp3" by Bansemer. CC0 1.0. https://freesound.org/people/Bansemer/sounds/35245/
+frogs-pond: by spoonboysf. CC0 1.0. https://freesound.org/people/spoonboysf/sounds/155026/
+wind-palms: "Wind through the palm trees and some crickets chirping in the day (Gran Sabana, Venezuela)" by felix.blume. CC0 1.0. https://freesound.org/people/felix.blume/sounds/384550/
+fountain-small: by giddster. CC0 1.0. https://freesound.org/people/giddster/sounds/435366/
+fountain-basin: by vollkornbrot. CC0 1.0. https://freesound.org/people/vollkornbrot/sounds/423622/
+fountain-jets: by bassimat. CC0 1.0. https://freesound.org/people/bassimat/sounds/863058/
+lagoon-dock: by TRP. CC0 1.0. https://freesound.org/people/TRP/sounds/574869/
+boat-engine: by kyles. CC0 1.0. https://freesound.org/people/kyles/sounds/452924/
+boat-wash: by reci77. CC0 1.0. https://freesound.org/people/reci77/sounds/581651/
+coaster-pass: by tec_studio. CC0 1.0. https://freesound.org/people/tec_studio/sounds/98181/
+coaster-roar: "roller coaster.aif" by Bruce Burbank. CC0 1.0. https://freesound.org/people/Bruce Burbank/sounds/136596/
+coaster-kiddie: by Urkki69. CC0 1.0. https://freesound.org/people/Urkki69/sounds/584699/
+coaster-screams: by ferbert15. CC0 1.0. https://freesound.org/people/ferbert15/sounds/842557/
+kids-squeal: by aisselles. CC0 1.0. https://freesound.org/people/aisselles/sounds/816074/
+train-hiss: by blukotek. CC0 1.0. https://freesound.org/people/blukotek/sounds/424941/
+train-chuff: by xo9rh11o3w. CC0 1.0. https://freesound.org/people/xo9rh11o3w/sounds/199828/
+train-whistle: by Bidone. CC0 1.0. https://freesound.org/people/Bidone/sounds/71778/
+train-brake: by LamaMakesMusic. CC0 1.0. https://freesound.org/people/LamaMakesMusic/sounds/420655/
+escalator: by Garuda1982. CC0 1.0. https://freesound.org/people/Garuda1982/sounds/417445/
+kitchen: by cpark12. CC0 1.0. https://freesound.org/people/cpark12/sounds/347309/
+terrace: by burkay. CC0 1.0. https://freesound.org/people/burkay/sounds/325558/
+bar: by sarahmariealice. CC0 1.0. https://freesound.org/people/sarahmariealice/sounds/265870/
+laugh-woman: by Kalibrk. CC0 1.0. https://freesound.org/people/Kalibrk/sounds/433921/
+laugh-group: by wrc4all. CC0 1.0. https://freesound.org/people/wrc4all/sounds/403058/
+giggle: by mrbriandesign. CC0 1.0. https://freesound.org/people/mrbriandesign/sounds/86991/
+laugh-child: by medyk3D. CC0 1.0. https://freesound.org/people/medyk3D/sounds/616088/
+laugh-kids: by FunWithSound. CC0 1.0. https://freesound.org/people/FunWithSound/sounds/416703/
+cheer-small: by moxobna. CC0 1.0. https://freesound.org/people/moxobna/sounds/32260/
+cheer: by misjoc. CC0 1.0. https://freesound.org/people/misjoc/sounds/400590/
+baby-cry: by Nox_Sound. CC0 1.0. https://freesound.org/people/Nox_Sound/sounds/631487/
+baby-babble: by FunWithSound. CC0 1.0. https://freesound.org/people/FunWithSound/sounds/416676/
+gull-a: by Canardo55. CC0 1.0. https://freesound.org/people/Canardo55/sounds/538015/
+gull-b: by Canardo55. CC0 1.0. https://freesound.org/people/Canardo55/sounds/538016/
+ducks: by zulfint. CC0 1.0. https://freesound.org/people/zulfint/sounds/238593/
+dove: by Bansemer. CC0 1.0. https://freesound.org/people/Bansemer/sounds/117660/
+cardinal: by JPBILLINGSLEYJR. CC0 1.0. https://freesound.org/people/JPBILLINGSLEYJR/sounds/467956/
+bluejay: by cognito perceptu. CC0 1.0. https://freesound.org/people/cognito perceptu/sounds/57906/
+owl: by felix.blume. CC0 1.0. https://freesound.org/people/felix.blume/sounds/612651/
+mockingbird-night: by hargissssound. CC0 1.0. https://freesound.org/people/hargissssound/sounds/346269/
+crowd-station-hall: by habbis92. CC0 1.0. https://freesound.org/people/habbis92/sounds/256626/
+foghorn: by exuberate. CC0 1.0. https://freesound.org/people/exuberate/sounds/140898/
+ship-bell: by Sojan. CC0 1.0. https://freesound.org/people/Sojan/sounds/353233/
+tram-bell: by AmazingRolo. CC0 1.0. https://freesound.org/people/AmazingRolo/sounds/448366/
+church-bells: by ivolipa. CC0 1.0. https://freesound.org/people/ivolipa/sounds/266525/
+kids-splash: by bassimat. CC0 1.0. https://freesound.org/people/bassimat/sounds/861416/
+plate-smash: by jc.sg. CC0 1.0. https://freesound.org/people/jc.sg/sounds/565642/
+steps-pavement: "Footsteps on concrete" by florianreichelt. CC0 1.0. https://freesound.org/people/florianreichelt/sounds/459964/
+steps-wood: "Footsteps - Wood Deck, Sneakers.WAV" by PMarcy. CC0 1.0. https://freesound.org/people/PMarcy/sounds/399309/
+steps-sand: "Footsteps on Sand" by amholma. CC0 1.0. https://freesound.org/people/amholma/sounds/376797/
+steps-grass: "Grass_Footsteps.wav" by Adielees9. CC0 1.0. https://freesound.org/people/Adielees9/sounds/331167/
+steps-metal: "Walking on metal" by Sanderboah. CC0 1.0. https://freesound.org/people/Sanderboah/sounds/696374/
+steps-tile: "Footsteps, Tile, Male Sneakers, Slow Pace.wav" by SpliceSound. CC0 1.0. https://freesound.org/people/SpliceSound/sounds/170506/
+steps-pool: "Footsteps, barefoot on wet tile.wav" by SpliceSound. CC0 1.0. https://freesound.org/people/SpliceSound/sounds/338106/
+steps-carpet: "Footsteps_Carpet.wav" by mlsulli. CC0 1.0. https://freesound.org/people/mlsulli/sounds/234855/
+tx-talk-paris-a: "Passing crowd in Latin Quarter of Paris" by Mxsmanic. CC0 1.0. https://freesound.org/people/Mxsmanic/sounds/139980/
+tx-talk-paris-b: "Passing crowd in Latin Quarter of Paris" by Mxsmanic. CC0 1.0. https://freesound.org/people/Mxsmanic/sounds/139980/
+tx-talk-small-walla: "Small Crowd Walla" by IENBA. CC0 1.0. https://freesound.org/people/IENBA/sounds/653920/
+tx-talk-bridge: "Walking Across London Bridge" by JoeDinesSound. CC0 1.0. https://freesound.org/people/JoeDinesSound/sounds/341272/
+tx-talk-interior: "Generic Interior Walla" by brunoboselli. CC0 1.0. https://freesound.org/people/brunoboselli/sounds/757318/
+tx-talk-group: "Small Group Conversation Ambience (48/24)" by neilraouf. CC0 1.0. https://freesound.org/people/neilraouf/sounds/484510/
+tx-stroller-a: "Rolling around a suitcase on the street" by franciscopcoutinho. CC0 1.0. https://freesound.org/people/franciscopcoutinho/sounds/468517/
+tx-stroller-b: "Rolling around a suitcase on the street" by franciscopcoutinho. CC0 1.0. https://freesound.org/people/franciscopcoutinho/sounds/468517/
+tx-stroller-c: "Rolling around a suitcase on the street" by franciscopcoutinho. CC0 1.0. https://freesound.org/people/franciscopcoutinho/sounds/468517/
+tx-lobby-walla: "S15-15 Hotel lobby; bg walla.wav" by craigsmith. CC0 1.0. https://freesound.org/people/craigsmith/sounds/675170/
+tx-lobby-open: "Hotel lobby - large open plan.wav" by soundmary. CC0 1.0. https://freesound.org/people/soundmary/sounds/117618/
+tx-lobby-busy: "ambient hotel lobby" by ccc140024324. CC0 1.0. https://freesound.org/people/ccc140024324/sounds/412928/
+tx-pool-rest: "Water parc or public swimming pool resting area.wav" by BonnyOrbit. CC0 1.0. https://freesound.org/people/BonnyOrbit/sounds/645854/
+tx-pool-rest-b: "Water parc or public swimming pool resting area.wav" by BonnyOrbit. CC0 1.0. https://freesound.org/people/BonnyOrbit/sounds/645854/
+tx-pool-summer: "Swimming pool outdoor in Romania during the summer" by felix.blume. CC0 1.0. https://freesound.org/people/felix.blume/sounds/238386/
+tx-pool-outdoor: "outdoor pool.wav" by bruno.auzet. CC0 1.0. https://freesound.org/people/bruno.auzet/sounds/529787/
+tx-pool-night: "outdoor pool at night.WAV" by Funkton. CC0 1.0. https://freesound.org/people/Funkton/sounds/472496/
+tx-cafe-bustling: "Bustling Cafe Ambience" by Talitha5. CC0 1.0. https://freesound.org/people/Talitha5/sounds/509950/
+tx-cafe-street: "city street cafe outside seating area.wav" by Vital_Sounds. CC0 1.0. https://freesound.org/people/Vital_Sounds/sounds/534479/
+tx-cafe-talk: "People talking at cafe ambience" by priesjensen. CC0 1.0. https://freesound.org/people/priesjensen/sounds/482990/
+tx-cafe-frother: "QUIET CAFE, CHATTER, MILK FROTHING MACHINE, atmos atmosphere wildtrack ambience.mp3" by Anya_Media. CC0 1.0. https://freesound.org/people/Anya_Media/sounds/437461/
+tx-convention-crowd: "Ambience: Convention Crowd (Stereo)" by Sheyvan. CC0 1.0. https://freesound.org/people/Sheyvan/sounds/494492/
+tx-convention-murmur: "Crowd talking / murmur" by trezz77. CC0 1.0. https://freesound.org/people/trezz77/sounds/546676/
+tx-convention-soft: "CRWDWalla_Soft Conference Room Walla, American English, Library_ShaneVincent_GSC24_SpacedOmni-MK012.wav" by ShangusBurger. CC0 1.0. https://freesound.org/people/ShangusBurger/sounds/764348/
+tx-luggage-street: "Rolling suitcase 1" by Aurelon. CC0 1.0. https://freesound.org/people/Aurelon/sounds/423707/
+tx-luggage-hall: "OBJLug_Wheeled suitcase bag rolling by on wood floor in large hall_thaighaudio_2026" by thaighaudio. CC0 1.0. https://freesound.org/people/thaighaudio/sounds/843826/
+tx-luggage-hall-b: "OBJLug_Wheeled suitcase bag rolling by on wood floor in large hall_thaighaudio_2026" by thaighaudio. CC0 1.0. https://freesound.org/people/thaighaudio/sounds/843826/
+tx-luggage-comb: "Luggage Wheels on Metal Escalator Comb Plate" by qubodup. CC0 1.0. https://freesound.org/people/qubodup/sounds/859087/
+tx-turnstile-swipe: "Subway, card swipe, double beep and turnstile.wav" by SpliceSound. CC0 1.0. https://freesound.org/people/SpliceSound/sounds/369875/
+tx-turnstile-beeps: "3 Turnstile beep.wav" by 15FPanska_Hecl_Filip. CC0 1.0. https://freesound.org/people/15FPanska_Hecl_Filip/sounds/461153/
+tx-turnstile-arm: "Paisaje-sonoro-uem-Torno.wav" by almalaut. CC0 1.0. https://freesound.org/people/almalaut/sounds/377892/
+tx-turnstile-click: "04 - Turnstile" by 14GSionJ. CC0 1.0. https://freesound.org/people/14GSionJ/sounds/419380/
+tx-ticket-validator: "Metcard ticket validator" by elliott.klein. CC0 1.0. https://freesound.org/people/elliott.klein/sounds/702294/
+tx-till-register: "Cash Register Purchase" by Zott820. CC0 1.0. https://freesound.org/people/Zott820/sounds/209578/
+tx-till-drawer: "cash drawer and receipt.wav" by kalisemorrison. CC0 1.0. https://freesound.org/people/kalisemorrison/sounds/202531/
+tx-till-open-close: "Till Open and Close" by muse384. CC0 1.0. https://freesound.org/people/muse384/sounds/191436/
+tx-till-scanner: "Retail Scanner (1)" by Beetlemuse. CC0 1.0. https://freesound.org/people/Beetlemuse/sounds/529825/
+tx-till-receipt: "Receipt Printer in 2002" by azumarill. CC0 1.0. https://freesound.org/people/azumarill/sounds/721540/
+tx-till-beeps: "cash register beep sound.wav" by videofueralle. CC0 1.0. https://freesound.org/people/videofueralle/sounds/455397/
+tx-liftchain-clatter: "Various Roller Coaster Chain SFX" by Robo9418. CC0 1.0. https://freesound.org/people/Robo9418/sounds/867944/
+tx-liftchain-ratchet: "Rollercoaster ratchet.wav" by esperar. CC0 1.0. https://freesound.org/people/esperar/sounds/171510/
+tx-coaster-pass-a: "SCB005_Rollercoaster001.wav" by tec_studio. CC0 1.0. https://freesound.org/people/tec_studio/sounds/98182/
+tx-coaster-pass-b: "roller coaster field recording" by Garuda1982. CC0 1.0. https://freesound.org/people/Garuda1982/sounds/535910/
+tx-coaster-pass-d: "roller coaster.aif" by Bruce Burbank. CC0 1.0. https://freesound.org/people/Bruce Burbank/sounds/136596/
+tx-coaster-ride: "Fast Roller Coaster Ride" by Eightmate. CC0 1.0. https://freesound.org/people/Eightmate/sounds/752661/
+tx-brakes-train: "Braking Train.WAV" by jonsept. CC0 1.0. https://freesound.org/people/jonsept/sounds/449912/
+tx-air-release-long: "Air (or steam) pressure release" by brunoboselli. CC0 1.0. https://freesound.org/people/brunoboselli/sounds/457294/
+tx-air-release-short: "Air (or steam) pressure release" by brunoboselli. CC0 1.0. https://freesound.org/people/brunoboselli/sounds/457294/
+tx-air-pffft: "release_air_pffft.wav" by reg7783. CC0 1.0. https://freesound.org/people/reg7783/sounds/131302/
+tx-air-slips: "Slips air release v1" by mcpable. CC0 1.0. https://freesound.org/people/mcpable/sounds/131934/
+tx-air-hiss: "Steam/hiss" by wubitog. CC0 1.0. https://freesound.org/people/wubitog/sounds/234782/
+tx-ride-carnival: "G16-03b-Carnival Ride.wav" by craigsmith. CC0 1.0. https://freesound.org/people/craigsmith/sounds/438127/
+tx-fan-electric: "Electric Fan 01" by unfa. CC0 1.0. https://freesound.org/people/unfa/sounds/170870/
+tx-fan-low: "Fan_01.wav" by moai15. CC0 1.0. https://freesound.org/people/moai15/sounds/336387/
+tx-mist-spray: "Spray Bottle" by OwlStorm. CC0 1.0. https://freesound.org/people/OwlStorm/sounds/212178/
+tx-mist-spray-b: "Spray" by SoundBiterSFX. CC0 1.0. https://freesound.org/people/SoundBiterSFX/sounds/730945/
+tx-air-rush-airy: "Ventilation Ouput, Large, Airy" by HECKFRICKER. CC0 1.0. https://freesound.org/people/HECKFRICKER/sounds/723700/
+tx-air-rush-rich: "Ventilation Ouput, Large, Rich" by HECKFRICKER. CC0 1.0. https://freesound.org/people/HECKFRICKER/sounds/723701/
+tx-air-unit-exterior: "Ventilation Furnace - Exterior Academic Heating Unit.wav" by jaegrover. CC0 1.0. https://freesound.org/people/jaegrover/sounds/262885/
+tx-air-hvac-hum: "machine hum hvac air" by alex36917. CC0 1.0. https://freesound.org/people/alex36917/sounds/580171/
+tx-air-ac-hum: "A/C Hum.aif" by timgormly. CC0 1.0. https://freesound.org/people/timgormly/sounds/148906/
+tx-door-glass-open: "Glass door, sliding" by OroborosNZ. CC0 1.0. https://freesound.org/people/OroborosNZ/sounds/273651/
+tx-door-glass-close: "Glass door, sliding" by OroborosNZ. CC0 1.0. https://freesound.org/people/OroborosNZ/sounds/273651/
+tx-door-slide: "SlideDoor.wav" by LukeUPF. CC0 1.0. https://freesound.org/people/LukeUPF/sounds/233064/
+tx-door-auto: "Paisaje-sonoro-uem-Puertas automaticas.wav" by almalaut. CC0 1.0. https://freesound.org/people/almalaut/sounds/377891/
+tx-door-slide-soft: "Sliding Door" by Autobot8299. CC0 1.0. https://freesound.org/people/Autobot8299/sounds/832093/
+tx-door-shop-chime: "7'11 Sliding Door" by plasterbrain. CC0 1.0. https://freesound.org/people/plasterbrain/sounds/399092/
+tx-escalator-a: "escalator.wav" by bruno.auzet. CC0 1.0. https://freesound.org/people/bruno.auzet/sounds/536917/
+tx-escalator-b: "Escalator Soundeffect" by florianreichelt. CC0 1.0. https://freesound.org/people/florianreichelt/sounds/451726/
+tx-escalator-c: "Escalator FX.wav" by Santi171. CC0 1.0. https://freesound.org/people/Santi171/sounds/655948/
+tx-golfcart-pass: "Car passes old golf cart BAHAMAS 180219.wav" by TRP. CC0 1.0. https://freesound.org/people/TRP/sounds/573166/
+tx-golfcart-pass-b: "Cars_Golf Cart" by adamdavidsmith. CC0 1.0. https://freesound.org/people/adamdavidsmith/sounds/877148/
+tx-golfcart-close: "buggy motorized cart pass by close interior hallway sooo noisy.flac" by kyles. CC0 1.0. https://freesound.org/people/kyles/sounds/635483/
+tx-tractor-drive-by: "English Countryside (Suffolk) - Tractor Drive-by - Fast" by rykenn. CC0 1.0. https://freesound.org/people/rykenn/sounds/529702/
+tx-tractor-idle: "tractor idling" by videog. CC0 1.0. https://freesound.org/people/videog/sounds/149193/
+tx-tram-pass: "Tram passing by" by simorautiainen. CC0 1.0. https://freesound.org/people/simorautiainen/sounds/658038/
+tx-reverse-beeps: "Drive in Reverse Beep Alert" by florianreichelt. CC0 1.0. https://freesound.org/people/florianreichelt/sounds/459993/
+tx-truck-reversing: "200505 Reversing truck beeps, alley, 6am.wav" by TRP. CC0 1.0. https://freesound.org/people/TRP/sounds/567294/
+tx-garbage-truck: "Noisy Garbage truck.WAV" by mmplisskin. CC0 1.0. https://freesound.org/people/mmplisskin/sounds/254228/
+tx-loader-reverse: "front loader truck with container drive by in reverse +pickup trucks follow.flac" by kyles. CC0 1.0. https://freesound.org/people/kyles/sounds/450160/
+tx-boat-diesel: "Marine diesel engine" by AugustSandberg. CC0 1.0. https://freesound.org/people/AugustSandberg/sounds/264864/
+tx-boat-yanmar-slow: "Yanmar_Engine_Slow.mp3" by ivolipa. CC0 1.0. https://freesound.org/people/ivolipa/sounds/325301/
+tx-boat-motor-a: "Boat 1.WAV" by Sandermotions. CC0 1.0. https://freesound.org/people/Sandermotions/sounds/328617/
+tx-boat-motor-b: "Boat 2.WAV" by Sandermotions. CC0 1.0. https://freesound.org/people/Sandermotions/sounds/328616/
+tx-boat-idle-dock: "130725_YachtIdleStart_F_4824.wav" by blaukreuz. CC0 1.0. https://freesound.org/people/blaukreuz/sounds/195743/
+tx-boat-ferry-onboard: "boat Amazon ferry 2-deck diesel barge onboard loud4 engine.flac" by kyles. CC0 1.0. https://freesound.org/people/kyles/sounds/450552/
+tx-dock-bump: "Boat Gently Bumping Dock.wav" by magzlurban. CC0 1.0. https://freesound.org/people/magzlurban/sounds/506688/
+tx-horn-boat: "Boat Horn" by felix.blume. CC0 1.0. https://freesound.org/people/felix.blume/sounds/162350/
+tx-horn-boat-short: "Boat Horn" by PearceWilsonKing. CC0 1.0. https://freesound.org/people/PearceWilsonKing/sounds/346108/
+tx-gangway-steps: "Metal_ramp_walking_footsteps_birdsong.wav" by innov8_Music. CC0 1.0. https://freesound.org/people/innov8_Music/sounds/687354/
+tx-fender-creak: "fender buoy.wav" by bruno.auzet. CC0 1.0. https://freesound.org/people/bruno.auzet/sounds/538009/
+tx-gangway-boarding: "Boarding gateway.mp3" by Lewooz. CC0 1.0. https://freesound.org/people/Lewooz/sounds/685723/
+tx-flag-flap: "A flag flapping in the wind, at the small village of Assem Souk, in the High Atlas (Morocco)." by felix.blume. CC0 1.0. https://freesound.org/people/felix.blume/sounds/154794/
+tx-flag-mast: "A flag flapping in the wind, the wire is knocking the metal mast, on the top of the chilean cliff." by felix.blume. CC0 1.0. https://freesound.org/people/felix.blume/sounds/146272/
+tx-flag-noisy: "180219 Flag flapping in wind, noisy BAHAMAS.flac" by TRP. CC0 1.0. https://freesound.org/people/TRP/sounds/572258/
+tx-flag-snap: "flag_flap_3.wav" by RichieMcMullen. CC0 1.0. https://freesound.org/people/RichieMcMullen/sounds/386796/
+tx-palms-wind: "Wind through Palm Trees.wav" by klangfabrik. CC0 1.0. https://freesound.org/people/klangfabrik/sounds/423800/
+tx-palms-wind-b: "Wind through Palm Trees.wav" by klangfabrik. CC0 1.0. https://freesound.org/people/klangfabrik/sounds/423800/
+tx-palms-crickets: "Wind through the palm trees and some crickets chirping in the day (Gran Sabana, Venezuela)" by felix.blume. CC0 1.0. https://freesound.org/people/felix.blume/sounds/384550/
+tx-bamboo-creak: "Bamboo Creaking in Wind" by Yoyodaman234. CC0 1.0. https://freesound.org/people/Yoyodaman234/sounds/335891/
+tx-bamboo-wind: "Bamboo_Wind.wav" by csargent9. CC0 1.0. https://freesound.org/people/csargent9/sounds/97120/
+tx-bamboo-rustle: "Amb - Bamboos creaking and rustling with the wind" by nyoz. CC0 1.0. https://freesound.org/people/nyoz/sounds/615748/
+tx-rain-umbrella: "Rain From Under An Umbrella" by jordanrainer325. CC0 1.0. https://freesound.org/people/jordanrainer325/sounds/534929/
+tx-rain-umbrella-b: "Rain_Falling_On_Umbrella.wav" by ivolipa. CC0 1.0. https://freesound.org/people/ivolipa/sounds/329112/
+tx-rain-canvas: "Inside a tent with rain (good for loop)" by Bronxio. CC0 1.0. https://freesound.org/people/Bronxio/sounds/397916/
+tx-rain-metal-roof: "Rain falling on a metal roof - 96 kHz / 24 Bit" by GregorQuendel. CC0 1.0. https://freesound.org/people/GregorQuendel/sounds/239939/
+tx-rain-street: "Light rain on street.wav" by BonnyOrbit. CC0 1.0. https://freesound.org/people/BonnyOrbit/sounds/380651/
+tx-rain-garden: "Garden Rain.mp3" by percydood. CC0 1.0. https://freesound.org/people/percydood/sounds/122957/
+tx-rain-strong: "Rain (strong), city, street, distant traffic" by Dominik_W. CC0 1.0. https://freesound.org/people/Dominik_W/sounds/398593/
+tx-birds-florida: "Florida Neighborhood Birds" by AnthonyChan0. CC0 1.0. https://freesound.org/people/AnthonyChan0/sounds/635818/
+tx-birds-grackles: "Grackles talking.wav" by C-V. CC0 1.0. https://freesound.org/people/C-V/sounds/616752/
+tx-birds-tropical-garden: "botanical gardens park tropical jungle birds crickets distant wind through trees echo Entebbe, Uganda, Africa 2016.wav" by kyles. CC0 1.0. https://freesound.org/people/kyles/sounds/406925/
+tx-birds-staugustine: "Birds -songbirds-morning dove - woodpecker- St Augustine.wav" by Bansemer. CC0 1.0. https://freesound.org/people/Bansemer/sounds/118464/
+tx-birds-mockingbird: "Bird-one Mockingbird with many songs.wav" by Bansemer. CC0 1.0. https://freesound.org/people/Bansemer/sounds/117816/
+tx-birds-mockingbird-b: "Florida Mockingbird in my backyard" by AnthonyChan0. CC0 1.0. https://freesound.org/people/AnthonyChan0/sounds/177956/
+tx-cicadas-day: "cicadas.wav" by laughatlantic. CC0 1.0. https://freesound.org/people/laughatlantic/sounds/320113/
+tx-swamp-night: "swamp at night with crickets and cicadas.mp3" by mariethompson. CC0 1.0. https://freesound.org/people/mariethompson/sounds/516927/
+tx-insects-summer-night: "SummerNightInsectsJuly182013.mp3" by kvgarlic. CC0 1.0. https://freesound.org/people/kvgarlic/sounds/196172/
+tx-insects-nighthawk: "SummerNighthawkandInsects19August2014.wav" by kvgarlic. CC0 1.0. https://freesound.org/people/kvgarlic/sounds/245393/
+tx-crickets-night: "Crickets At Night - Raw sound" by Defelozedd94. CC0 1.0. https://freesound.org/people/Defelozedd94/sounds/522299/
+tx-frogs-creek: "Frogs in Alliagtor Creek at 4am.mp3" by Bansemer. CC0 1.0. https://freesound.org/people/Bansemer/sounds/35245/
+tx-frogs-pond: "Toads and frogs are singing at night in the pond, in the center of the small village of Diafarabe, on the Niger river. (Africa, Mali)" by felix.blume. CC0 1.0. https://freesound.org/people/felix.blume/sounds/135561/
+tx-frogs-toads: "Frogs Toads April 10 2017.wav" by Danjocross. CC0 1.0. https://freesound.org/people/Danjocross/sounds/387868/
+tx-frogs-insects: "Insects and frogs at night.wav" by nervousneal. CC0 1.0. https://freesound.org/people/nervousneal/sounds/342191/
+tx-under-bridge: "Close-up Under a Highway Bridge, Cars Driving Above, Reverberant" by flood-mix. CC0 1.0. https://freesound.org/people/flood-mix/sounds/413333/
+tx-underpass: "highwayunderpass01.wav" by klangfabrik. CC0 1.0. https://freesound.org/people/klangfabrik/sounds/160002/
+tx-underpass-highway: "Highway - as heard from an underpass" by SoundsExciting. CC0 1.0. https://freesound.org/people/SoundsExciting/sounds/328450/
+tx-bridge-joints: "Cars Driving Over Bridge Joints" by LicaRedMoth. CC0 1.0. https://freesound.org/people/LicaRedMoth/sounds/866213/
+tx-torch-flame: "torch.wav" by 16GPanskaSibinska_N. CC0 1.0. https://freesound.org/people/16GPanskaSibinska_N/sounds/497193/
+tx-fire-crackle: "fire crackles" by florianreichelt. CC0 1.0. https://freesound.org/people/florianreichelt/sounds/563766/
+tx-torch-gas: "Gas Torch Burn" by SyntaxSeed. CC0 1.0. https://freesound.org/people/SyntaxSeed/sounds/244230/
+tx-splash-jump: "Water Splash" by felix.blume. CC0 1.0. https://freesound.org/people/felix.blume/sounds/434978/
+tx-splash-dive: "dive.wav" by bruno.auzet. CC0 1.0. https://freesound.org/people/bruno.auzet/sounds/529793/
+tx-splash-big: "Splashes big jumping in water rock down slide Di Manitoulin Island 05.mp3" by TRP. CC0 1.0. https://freesound.org/people/TRP/sounds/574863/
+tx-splash-big-b: "Splashes big jumping in water rock down slide Di Manitoulin Island 05.mp3" by TRP. CC0 1.0. https://freesound.org/people/TRP/sounds/574863/
+tx-swimmer-pass: "POOL SWIMMING R-L" by tbsounddesigns. CC0 1.0. https://freesound.org/people/tbsounddesigns/sounds/530158/
+tx-swimming: "Swimming at the pool.wav" by tom_woysky. CC0 1.0. https://freesound.org/people/tom_woysky/sounds/240115/
+tx-slide-down: "Splashes big jumping in water rock down slide Di Manitoulin Island 05.mp3" by TRP. CC0 1.0. https://freesound.org/people/TRP/sounds/574863/
+tx-slide-kids: "Children on a water slide jumping castle outdoors on a summer day" by watchthatfilms. CC0 1.0. https://freesound.org/people/watchthatfilms/sounds/877596/
+tx-slide-flume: "Stream, Running Water | Aviemore Scotland" by BurghRecords. CC0 1.0. https://freesound.org/people/BurghRecords/sounds/415151/
+tx-kids-pool-outdoor: "outdoor pool & children atmo field recording" by Garuda1982. CC0 1.0. https://freesound.org/people/Garuda1982/sounds/432326/
+tx-kids-pool-indoor: "Indoor swimming pool field recording - children's pool" by rthijs. CC0 1.0. https://freesound.org/people/rthijs/sounds/679147/
+tx-kid-playing-pool: "Kid playing in a swimming pool" by souchav. CC0 1.0. https://freesound.org/people/souchav/sounds/371453/
+tx-pool-calm: "Swimming pool - calm atmosphere" by ohenavoda. CC0 1.0. https://freesound.org/people/ohenavoda/sounds/702392/
+tx-pool-swim-bath: "STC_schwimmbi.flac" by nikitralala. CC0 1.0. https://freesound.org/people/nikitralala/sounds/317679/
+tx-pool-swimming: "Swimming pool.WAV" by Sandermotions. CC0 1.0. https://freesound.org/people/Sandermotions/sounds/278864/
+tx-whistle-blow: "Referee whistle blow, gymnasium.wav" by SpliceSound. CC0 1.0. https://freesound.org/people/SpliceSound/sounds/218318/
+tx-whistle-short: "Referee whistle sound.wav" by Rosa-Orenes256. CC0 1.0. https://freesound.org/people/Rosa-Orenes256/sounds/538422/
+tx-whistle-pea: "Whistle.mp3" by ZvinbergsA. CC0 1.0. https://freesound.org/people/ZvinbergsA/sounds/273305/
+tx-whistle-metal: "metal whistle.wav" by strongbot. CC0 1.0. https://freesound.org/people/strongbot/sounds/568995/
+tx-blender-run: "BLENDER" by SamuelGremaud. CC0 1.0. https://freesound.org/people/SamuelGremaud/sounds/459394/
+tx-blender-smoothie: "licuadora_licuado_cooking blender_smoothie_liquate.WAV" by SergioJbs. CC0 1.0. https://freesound.org/people/SergioJbs/sounds/580572/
+tx-blender-short: "Blender.mp3" by bmusic92. CC0 1.0. https://freesound.org/people/bmusic92/sounds/232915/
+tx-blender-ice: "blender ice crush.wav" by jackofall29. CC0 1.0. https://freesound.org/people/jackofall29/sounds/158737/
+tx-glass-shake-pour: "martini_shake_pour.wav" by philberts. CC0 1.0. https://freesound.org/people/philberts/sounds/71415/
+tx-glass-shaker: "Cocktail Shaker.wav" by KenRT. CC0 1.0. https://freesound.org/people/KenRT/sounds/319995/
+tx-glass-clink: "clink of glasses" by SirMediabert. CC0 1.0. https://freesound.org/people/SirMediabert/sounds/269395/
+tx-glass-clinks: "Drinking Glasses contact (Clink)" by EpicWizard. CC0 1.0. https://freesound.org/people/EpicWizard/sounds/325195/
+tx-glass-on-bar: "Glass_On_Bar.aif" by bhweber. CC0 1.0. https://freesound.org/people/bhweber/sounds/148169/
+tx-ship-creak: "ship_creak.mp3" by Walter_Odington. CC0 1.0. https://freesound.org/people/Walter_Odington/sounds/31574/
+tx-rigging-moored: "Moored sailboat interior in strong breeze" by AugustSandberg. CC0 1.0. https://freesound.org/people/AugustSandberg/sounds/265553/
+tx-mooring-hawsers: "liner mooring hawsers creak, gangplank groans.WAV" by phonoflora. CC0 1.0. https://freesound.org/people/phonoflora/sounds/500143/
+tx-bell-strike: "140809_FrybgWb_BellTower_Midnight_F.wav" by blaukreuz. CC0 1.0. https://freesound.org/people/blaukreuz/sounds/240586/
+tx-bell-hour: "140809_FrybgWb_BellTower_Midnight_F.wav" by blaukreuz. CC0 1.0. https://freesound.org/people/blaukreuz/sounds/240586/
+tx-piazza-lunch: "Italian Square at Sunday Lunch Time, Piazza del Duomo, Padua, Sunday" by bassimat. CC0 1.0. https://freesound.org/people/bassimat/sounds/832691/
+tx-piazza-pinerolo: "Pinerolo Piazza Cavour_2" by emanuele.caro. CC0 1.0. https://freesound.org/people/emanuele.caro/sounds/385971/
+tx-canal-stream: "Gentle Stream Natural Stream Sound" by BurghRecords. CC0 1.0. https://freesound.org/people/BurghRecords/sounds/446019/
+tx-canal-trickle: "Water Trickle" by TheWoodlandNomad. CC0 1.0. https://freesound.org/people/TheWoodlandNomad/sounds/363120/
+tx-canal-running: "Stream, Running Water | Aviemore Scotland" by BurghRecords. CC0 1.0. https://freesound.org/people/BurghRecords/sounds/415151/
+tx-wash-bow: "Sailing boat, bow wave (close perspective)" by Pfannkuchn. CC0 1.0. https://freesound.org/people/Pfannkuchn/sounds/360631/
+tx-wash-choppy: "Choppy waves against a ship's bow" by tiennotg. CC0 1.0. https://freesound.org/people/tiennotg/sounds/551436/
+tx-wash-boardwalk: "Small Boat Wake on River lapping under Wooden Boardwalk" by Alex_hears_things. CC0 1.0. https://freesound.org/people/Alex_hears_things/sounds/758858/
+tx-wake-pass: "pope sailing wake.wav" by bruno.auzet. CC0 1.0. https://freesound.org/people/bruno.auzet/sounds/570926/
+
+== other ==
+redwing: by National Park Service (Yellowstone sound library). Public domain (US NPS). https://www.nps.gov/yell/learn/photosmultimedia/sounds-redwingedblackbird.htm
+yellowthroat: by NPS & MSU Acoustic Atlas / Jennifer Jerrett. Public domain (US NPS). https://www.nps.gov/yell/learn/photosmultimedia/sounds-commonyellowthroat.htm
+gramophone-rag: by Scott Joplin (1899); United States Marine Band (recorded 1906). Public domain (1906 recording by a US government band; composition PD). https://commons.wikimedia.org/wiki/File:1906_-_Scott_Joplin%27s_Maple_Leaf_Rag_(1899)_played_by_the_United_States_Marine_Band.ogg
+thunder-far: by NPS / Jennifer Jerrett. Public domain (US NPS). https://www.nps.gov/yell/learn/photosmultimedia/sounds-thunder.htm

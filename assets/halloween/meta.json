@@ -1,0 +1,123 @@
+{
+  "source": "https://sketchfab.com/3d-models/zombie-rigged-animated-131688807ad444609ed9b2ed572dc4aa",
+  "author": "Aiden Studios",
+  "license": "CC-BY-4.0",
+  "sourceClips": [
+    "Attack1.001",
+    "Idle",
+    "Walk1"
+  ],
+  "retainedClips": [
+    "Idle",
+    "Walk1"
+  ],
+  "triangles": 19508,
+  "textures": [
+    {
+      "name": "textures/Body.001_baseColor.jpeg",
+      "source": [
+        2048,
+        2048
+      ],
+      "maxSize": 1024
+    },
+    {
+      "name": "textures/Body.001_metallicRoughness.png",
+      "source": [
+        2048,
+        2048
+      ],
+      "maxSize": 1024
+    },
+    {
+      "name": "textures/Body.001_normal.png",
+      "source": [
+        2048,
+        2048
+      ],
+      "maxSize": 1024
+    },
+    {
+      "name": "textures/hands.001_baseColor.jpeg",
+      "source": [
+        2048,
+        2048
+      ],
+      "maxSize": 1024
+    },
+    {
+      "name": "textures/hands.001_metallicRoughness.png",
+      "source": [
+        2048,
+        2048
+      ],
+      "maxSize": 1024
+    },
+    {
+      "name": "textures/hands.001_normal.png",
+      "source": [
+        2048,
+        2048
+      ],
+      "maxSize": 1024
+    },
+    {
+      "name": "textures/head_1.001_baseColor.jpeg",
+      "source": [
+        2048,
+        2048
+      ],
+      "maxSize": 1024
+    },
+    {
+      "name": "textures/head_1.001_metallicRoughness.png",
+      "source": [
+        2048,
+        2048
+      ],
+      "maxSize": 1024
+    },
+    {
+      "name": "textures/head_1.001_normal.png",
+      "source": [
+        2048,
+        2048
+      ],
+      "maxSize": 1024
+    },
+    {
+      "name": "textures/Sphere.001_baseColor.jpeg",
+      "source": [
+        2048,
+        2048
+      ],
+      "maxSize": 256
+    },
+    {
+      "name": "textures/Sphere.001_metallicRoughness.png",
+      "source": [
+        2048,
+        2048
+      ],
+      "maxSize": 256
+    },
+    {
+      "name": "textures/Sphere_1.001_baseColor.jpeg",
+      "source": [
+        2048,
+        2048
+      ],
+      "maxSize": 256
+    },
+    {
+      "name": "textures/Sphere_1.001_metallicRoughness.png",
+      "source": [
+        2048,
+        2048
+      ],
+      "maxSize": 256
+    }
+  ],
+  "bytes": 7063048,
+  "sha256": "8f69f7ce1bd3ca0e27ffe3c91674e92ac5e34d8f59675a37869d7eb5f25f4245"
+}

@@ -1,0 +1,1 @@
+export{t as MooredBoats}from"./moored-boats-BI6IPuFM.js";

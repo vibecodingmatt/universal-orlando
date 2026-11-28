@@ -1,0 +1,1 @@
+var e=[];function t(t){e.unshift(t),e.length>6&&(e.length=6)}export{e as n,t};

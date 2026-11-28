@@ -1,0 +1,1 @@
+var e=new Map;function t(t){return t?e.get(t):void 0}function n(t,n,r){e.set(t,n),r.traverse(e=>{let r=e;r.isMesh&&r.userData.waterId===t&&(r.material=n)})}var r=[`r2455551`,`r2457544`,`r2455602`],i=[],a=!1;function o(e){i.push(e),a&&(e.visible=!1)}function s(){a=!0;for(let e of i)e.visible=!1}export{t as a,s as i,o as n,n as r,r as t};

@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"citywalk-photo-spots","kind":"zone","file":"citywalk-photo-spots-collision.bvhz","encoding":"gzip","bytes":540,"decodedBytes":800,"bounds":{"min":[263.82,2.96,441.1],"max":[341.18,5.66,582.68]},"triangles":24,"vertices":16}]}

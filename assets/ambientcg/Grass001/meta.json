@@ -1,0 +1,20 @@
+{
+  "id": "Grass001",
+  "name": "Grass 001",
+  "authors": [
+    "ambientCG (Lennart Demes)"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/view?id=Grass001",
+  "type": "texture",
+  "res": "1K",
+  "main": "Grass001.glb",
+  "dimensions_mm": [
+    1400,
+    1400
+  ],
+  "use": "turf on the terrain (`src/materials/`)",
+  "bytes": 2803560,
+  "lo": "Grass001-lo.glb",
+  "loBytes": 184948
+}

@@ -1,0 +1,1 @@
+{"version":1,"format":1,"walkable":[],"water":[],"parts":[{"id":"minion-land-sign-planter","kind":"zone","file":"minion-land-sign-collision.bvhz","encoding":"gzip","bytes":997,"decodedBytes":1848,"bounds":{"min":[142.62,0.58,256.34],"max":[147.5,2.4,261.22]},"triangles":76,"vertices":40}]}

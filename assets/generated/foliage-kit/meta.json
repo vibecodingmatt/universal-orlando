@@ -1,0 +1,21 @@
+{
+  "id": "foliage-kit",
+  "name": "Florida tree kit atlas (procedural, ours)",
+  "authors": [
+    "universal-orlando-3d (tools/geo/tree_kit.py)"
+  ],
+  "license": "ours",
+  "source": "tools/geo/tree_kit.py",
+  "type": "texture",
+  "res": "2048x2048",
+  "main": "foliage-kit.glb",
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "use": "every tree of a kit zone (2.4b-b-a)",
+  "alphaMode": "MASK",
+  "bytes": 2256600,
+  "lo": "foliage-kit-lo.glb",
+  "loBytes": 218396
+}
